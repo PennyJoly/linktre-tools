@@ -54,7 +54,7 @@
 | 站点 | 简介 |
 | --- | --- |
 | [Favicon.ico图标在线转换](http://ico.hillcloud.net) | 在线png、jpg、gif等格式的图片转ico格式工具 |
-| [Favicon.ico图标生成器 | 一键免费制作ico图标](https://www.logosc.cn/logo/favicon) | 在线ico图标生成工具 |
+| [一键免费制作ico图标](https://www.logosc.cn/logo/favicon) | 在线ico图标生成工具 |
 | [scamalyticsIp](https://scamalytics.com/ip) | 在线ip干净程度检测工具 |
 | [whoer](https://whoer.net/) | 在线ip、dns检查工具 |
 | [ipinfo](https://ipinfo.io) | 在线ip机场检查工具 |
