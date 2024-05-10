@@ -37,5 +37,16 @@
 | [C知道](https://so.csdn.net/chat?utm_source=ai-bot.cn) | CSDN推出的技术答疑工具助手 |
 | [小微助手](https://xiaowei.weixin.qq.com/) | 腾讯推出的桌面版AI助手工具 |
 
+## 媒体运营
+
+| 站点 | 简介 |
+| --- | --- |
+| [SimilarSites](https://www.similarsites.com) | 根据你当前浏览的页面搜索出同类网站 |
+| [Semrush](https://zh.semrush.com) | 全面的SEO搜索引擎数字营销工具 |
+| [巨量算数](https://trendinsight.oceanengine.com/arithmetic-index) | 字节跳动推出的抖音、西瓜视频等热点指数分析工具 |
+| [新红](https://xh.newrank.cn/) | 新榜有数旗下小红书数据分析工具 |
+| [wideo](https://wideo.co/) | 广告创意视频制作工具 |
+
+
 
 
