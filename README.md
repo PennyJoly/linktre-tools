@@ -98,11 +98,11 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [Product Hunt](https://www.producthunt.com) | 新产品主打阵地，发布后其他导航站回来爬取，首选发布地 |
-| [reddit](https://www.reddit.com) | 新产品交流社区 |
-| [Hacker News](https://news.ycombinator.com) | 一个新闻聚合网站，允许提交满足用户求知欲的各种类型的新闻，主要以英语内容为主。 |
-| [Indie Hackers](https://www.indiehackers.com) | 一个社区平台，它连接开发者们共同分享他们的公司和副业背后的策略和收入数据。 |
-| [1000UserGuide](https://1000userguide.com/) | 为开发者有效地推广产品，接触目标受众，并找到你的第一批1000个用户 |
+| [Product Hunt](https://www.linktre.cc/siteDetails/288) | 新产品主打阵地，发布后其他导航站回来爬取，首选发布地 |
+| [reddit](https://www.linktre.cc/siteDetails/289) | 新产品交流社区 |
+| [Hacker News](https://www.linktre.cc/siteDetails/290) | 一个新闻聚合网站，允许提交满足用户求知欲的各种类型的新闻，主要以英语内容为主。 |
+| [Indie Hackers](https://www.linktre.cc/siteDetails/291) | 一个社区平台，它连接开发者们共同分享他们的公司和副业背后的策略和收入数据。 |
+| [1000UserGuide](https://www.linktre.cc/siteDetails/314) | 为开发者有效地推广产品，接触目标受众，并找到你的第一批1000个用户 |
 
 
 
