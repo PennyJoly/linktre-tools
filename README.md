@@ -18,23 +18,23 @@
 | --- | --- |
 | [ChatGPT](https://openai.com/chatgpt/) | OpenAI推出的AI对话工具 |
 | [Midjourney](https://www.midjourney.com/home) | AI图像插画生成工具 |
-| [Claude](https://www.anthropic.com/app-unavailable-in-region?utm_source=country) | OpenAI最大的竞争对手Anthropic发布了新一代AI大模型系列 |
-| [Le Chat](https://chat.mistral.ai) | Mistral推出的AI对话聊天助手 |
-| [Gemma](https://ai.google.dev/gemma?hl=zh-cn) | 谷歌推出的新一代轻量级开放模型 |
-| [Sora](https://openai.com/sora) |OpenAI推出的AI文本到视频生成模型 |
-| [Suno AI](https://www.suno.ai) | 麻省理工团队推出的人工智能音乐生成器 |
-| [GeminiProChat](https://geminiprochat.com) | 开源免费的GeminiPro 对话平台 |
+| [Claude](https://www.linktre.cc/siteDetails/238) | OpenAI最大的竞争对手Anthropic发布了新一代AI大模型系列 |
+| [Le Chat](https://www.linktre.cc/siteDetails/239) | Mistral推出的AI对话聊天助手 |
+| [Gemma](https://www.linktre.cc/siteDetails/240) | 谷歌推出的新一代轻量级开放模型 |
+| [Sora](https://www.linktre.cc/siteDetails/241) |OpenAI推出的AI文本到视频生成模型 |
+| [Suno AI](https://www.linktre.cc/siteDetails/242) | 麻省理工团队推出的人工智能音乐生成器 |
+| [GeminiProChat](https://www.linktre.cc/siteDetails/243) | 开源免费的GeminiPro 对话平台 |
 
 
 ## 国内热门AI产品
 
 | 站点 | 简介 |
 | --- | --- |
-| [文心一言](https://yiyan.baidu.com/) | 百度推出的基于文心大模型的AI对话互动工具 |
-| [ChatGLM](https://chatglm.cn) | 开源的、支持中英双语的1300亿参数的对话语言模型 |
-| [通义千问](https://tongyi.aliyun.com/) | 阿里推出类ChatGPT的产品 |
-| [讯飞星火认知大模型](https://xinghuo.xfyun.cn/?ch=nt_feb_dhci43wJ) | 科大讯飞认知智能大模型 |
-| [豆包AI](https://www.doubao.com) | 字节跳动旗下推出的AI人工智能助手 |
+| [文心一言](https://www.linktre.cc/siteDetails/244) | 百度推出的基于文心大模型的AI对话互动工具 |
+| [ChatGLM](https://www.linktre.cc/siteDetails/245) | 开源的、支持中英双语的1300亿参数的对话语言模型 |
+| [通义千问](https://www.linktre.cc/siteDetails/246) | 阿里推出类ChatGPT的产品 |
+| [讯飞星火认知大模型](https://www.linktre.cc/siteDetails/247) | 科大讯飞认知智能大模型 |
+| [豆包AI](https://www.linktre.cc/siteDetails/253) | 字节跳动旗下推出的AI人工智能助手 |
 | [C知道](https://so.csdn.net/chat?utm_source=ai-bot.cn) | CSDN推出的技术答疑工具助手 |
 | [小微助手](https://xiaowei.weixin.qq.com/) | 腾讯推出的桌面版AI助手工具 |
 
@@ -43,54 +43,54 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [Lemon Squeezy](https://www.lemonsqueezy.com) | 支持个人香港卡、虚拟卡，国内开发者首选 |
-| [Stripe](https://stripe.com/) | 企业出海首选,全面的在线支付平台 |
-| [Paddle](https://www.paddle.com/) | 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长 |
+| [Lemon Squeezy](https://www.linktre.cc/siteDetails/269) | 支持个人香港卡、虚拟卡，国内开发者首选 |
+| [Stripe](https://www.linktre.cc/siteDetails/270) | 企业出海首选,全面的在线支付平台 |
+| [Paddle](https://www.linktre.cc/siteDetails/271) | 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长 |
 
 
 ## 独立开发出海--部署与托管
 
 | 站点 | 简介 |
 | --- | --- |
-| [Cloudflare Pages](https://developers.cloudflare.com/pages/) | 通过Git集成、发布项目，支持全栈应用 |
-| [Vercel](https://vercel.com/) | 穷鬼必备，静态网站和服务器端渲染网站出海托管第一选择！ |
-| [Github Pages](https://pages.github.com/) | 直接从GitHub存储库托管，您仅需编辑和推送代码，您的更改即可快速上线 |
+| [Cloudflare Pages](https://www.linktre.cc/siteDetails/272) | 通过Git集成、发布项目，支持全栈应用 |
+| [Vercel](https://www.linktre.cc/siteDetails/273) | 穷鬼必备，静态网站和服务器端渲染网站出海托管第一选择！ |
+| [Github Pages](https://www.linktre.cc/siteDetails/274) | 直接从GitHub存储库托管，您仅需编辑和推送代码，您的更改即可快速上线 |
 
 
 ## 独立开发出海--图标库
 
 | 站点 | 简介 |
 | --- | --- |
-| [MingCute Pages](https://www.mingcute.com/) | 为设计师和开发者准备的简洁而精致的开源图标库，适合在网页和移动设备上使用 |
-| [iconbuddy](https://iconbuddy.com/) | 提供超过200,000个开源SVG图标的搜索引擎，允许你免费搜索、下载、自定义和编辑图标。 |
+| [MingCute Pages](https://www.linktre.cc/siteDetails/276) | 为设计师和开发者准备的简洁而精致的开源图标库，适合在网页和移动设备上使用 |
+| [iconbuddy](https://www.linktre.cc/siteDetails/277) | 提供超过200,000个开源SVG图标的搜索引擎，允许你免费搜索、下载、自定义和编辑图标。 |
 
 
 ## 独立开发出海--UI样式
 
 | 站点 | 简介 |
 | --- | --- |
-| [TailwindCSS](https://tailwindcss.com) | 一个功能强大的实用CSS框架，用于快速构建自定义设计的界面。 |
-| [HyperUI](https://www.hyperui.dev) | 一个基于TailwindCSS的开源简约风UI库，强烈推荐! |
-| [Shadcn/ui](https://ui.shadcn.com/) | 开源精美的组件库，复制并粘贴即可完成页面构建 |
+| [TailwindCSS](https://www.linktre.cc/siteDetails/278) | 一个功能强大的实用CSS框架，用于快速构建自定义设计的界面。 |
+| [HyperUI](https://www.linktre.cc/siteDetails/279) | 一个基于TailwindCSS的开源简约风UI库，强烈推荐! |
+| [Shadcn/ui](https://www.linktre.cc/siteDetails/280) | 开源精美的组件库，复制并粘贴即可完成页面构建 |
 
 
 ## 独立开发出海--web开发模板
 
 | 站点 | 简介 |
 | --- | --- |
-| [supastarter](https://supastarter.dev) | 使用流行的前端框架如Next.js和Nuxt，一天之内快速上线! |
-| [nextjs billing](https://github.com/lmsqueezy/nextjs-billing) | 由Lemon Squeezy开源的，计费-LemonSqueezy 授权-NextAuth.js ORM-Prisma 样式-Tailwind CSS 邮件-Resend |
-| [SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) | 一款开源的SaaS模板，非常适合构建自己的SaaS应用。使用React+Tailwind CsS +Shadcn Ul包括身份验证，多租户，角色权限，MFA，用户登录，数据库和日志记录~ |
-| [saasfly](https://github.com/saasfly/saasfly) | SaaS 开发模板，主要是对标 shipfa.st |
+| [supastarter](https://www.linktre.cc/siteDetails/281) | 使用流行的前端框架如Next.js和Nuxt，一天之内快速上线! |
+| [nextjs billing](https://www.linktre.cc/siteDetails/282) | 由Lemon Squeezy开源的，计费-LemonSqueezy 授权-NextAuth.js ORM-Prisma 样式-Tailwind CSS 邮件-Resend |
+| [SaaS-Boilerplate](https://www.linktre.cc/siteDetails/283) | 一款开源的SaaS模板，非常适合构建自己的SaaS应用。使用React+Tailwind CsS +Shadcn Ul包括身份验证，多租户，角色权限，MFA，用户登录，数据库和日志记录~ |
+| [saasfly](https://www.linktre.cc/siteDetails/284) | SaaS 开发模板，主要是对标 shipfa.st |
 
 
 ## 独立开发出海--网站分析
 
 | 站点 | 简介 |
 | --- | --- |
-| [AITDK Extension](https://aitdk.com/zh-CN/extension) | Chrome 插件。网站 SEO 分析工具,强烈安利 |
-| [Umami](https://umami.is/) | 一个简单、易用的开源网站分析工具，它提供用户隐私尊重的方式来跟踪网站访问者的活动和数据 |
-| [Google Analytics](https://analytics.google.com/analytics/web) | 一个强大的网站分析服务，它可以帮助网站所有者理解访客行为，评估营销活动的效果，并改善网站性能 |
+| [AITDK Extension](https://www.linktre.cc/siteDetails/285) | Chrome 插件。网站 SEO 分析工具,强烈安利 |
+| [Umami](https://www.linktre.cc/siteDetails/286) | 一个简单、易用的开源网站分析工具，它提供用户隐私尊重的方式来跟踪网站访问者的活动和数据 |
+| [Google Analytics](https://www.linktre.cc/siteDetails/287) | 一个强大的网站分析服务，它可以帮助网站所有者理解访客行为，评估营销活动的效果，并改善网站性能 |
 
 
 
@@ -105,30 +105,80 @@
 | [1000UserGuide](https://www.linktre.cc/siteDetails/314) | 为开发者有效地推广产品，接触目标受众，并找到你的第一批1000个用户 |
 
 
+## 独立开发出海--数据库
+
+| 站点 | 简介 |
+| --- | --- |
+| [Supabase](https://www.linktre.cc/siteDetails/292) | PostgreSQL数据库、文件存储、登录鉴权 |
+| [Upstash](https://www.linktre.cc/siteDetails/293) | 支持 Redis、kafka、向量数据库|
+| [Mongodb](https://www.linktre.cc/siteDetails/294) | Mongodb 官方提供一个免费数据库 |
+
+
+## 独立开发出海--前端
+
+| 站点 | 简介 |
+| --- | --- |
+| [Next.js](https://www.linktre.cc/siteDetails/295) | 基于 React。附属学习教程:Next.js Practice |
+| [Nuxt](https://www.linktre.cc/siteDetails/296) | Nuxt.js 是一个建立在 Vue.js 之上的高级框架致力于创建现代化的 Web 应用程序，提供服务器端渲染、静态站点生成和基于 Vue 的单页面应用解决方案。|
+
+
+## 独立开发出海--登录鉴权
+
+| 站点 | 简介 |
+| --- | --- |
+| [Clerk](https://www.linktre.cc/siteDetails/297) | 免费用户 5000 MAU |
+| [Logto](https://www.linktre.cc/siteDetails/298) | 登录鉴权，有云端版和开源的私有化部署版 |
+
+
+## 独立开发出海--广告联盟
+
+| 站点 | 简介 |
+| --- | --- |
+| [Google Adsense](https://www.linktre.cc/siteDetails/303) | 最出名的广告联盟，68%广告分成，审核周期较长，适合流量稳定较高的站点 |
+| [ezoic](https://www.linktre.cc/siteDetails/304) | 注册简单，官方扶持1W访问量以下站点，根据访问量划分等级，最低提现20美元,30天打款 |
+| [bidvertiser](https://www.linktre.cc/siteDetails/305) | 更适合英文站点，中文站点广告较少，最低10美元提现 |
+| [media.net](https://www.linktre.cc/siteDetails/306) | 无流量要求，需流量来源美国、英国或加拿大，100%的英文站，最低提现100美元，30天打款，不接受敏感内容 |
+| [propellerads](https://www.linktre.cc/siteDetails/307) | 无流量要求，注册简单，收入高于谷歌AdSense，最低提现100美元 |
+| [monetag](https://www.linktre.cc/siteDetails/308) | propellerads相关公司,对新手友好，注册简单，每天一杯9.9咖啡不二之选，不接受敏感内容 |
+| [yllix](https://www.linktre.cc/siteDetails/309) | 支持CPM、CPC和CPA活动，无流量要求，注册简单，最低提现1美元,每日打款,邀请新用户赠高达100美元奖励 |
+| [skimlinks](https://www.linktre.cc/siteDetails/310) | 点击75%佣金,购物返现,最低提现10美元,90天打款 |
+| [adsterra](https://www.linktre.cc/siteDetails/311) | 比Google Adsense赚的多的联盟 |
+| [sovrn](https://www.linktre.cc/siteDetails/312) | 有审核门槛，但较容易通过，CPM形式，广告展示就会有收入。 |
+| [exoclick](https://www.linktre.cc/siteDetails/313) | 一个比较好用的网赚联盟,支持中文 |
+
+
+## 开源项目
+
+| 站点 | 简介 |
+| --- | --- |
+| [兔兔答题](https://www.linktre.cc/siteDetails/299) | 开源免费在线考试，企业培训软件综合平台 |
+| [Inpaint-web](https://www.linktre.cc/siteDetails/300) | 免费开源的AI图片消除、高清修复工具 |
+
+
 
 ## 媒体运营
 
 | 站点 | 简介 |
 | --- | --- |
-| [SimilarSites](https://www.similarsites.com) | 根据你当前浏览的页面搜索出同类网站 |
-| [Semrush](https://zh.semrush.com) | 全面的SEO搜索引擎数字营销工具 |
-| [巨量算数](https://trendinsight.oceanengine.com/arithmetic-index) | 字节跳动推出的抖音、西瓜视频等热点指数分析工具 |
-| [新红](https://xh.newrank.cn/) | 新榜有数旗下小红书数据分析工具 |
-| [wideo](https://wideo.co/) | 广告创意视频制作工具 |
+| [SimilarSites](https://www.linktre.cc/siteDetails/248) | 根据你当前浏览的页面搜索出同类网站 |
+| [Semrush](https://www.linktre.cc/siteDetails/250) | 全面的SEO搜索引擎数字营销工具 |
+| [巨量算数](https://www.linktre.cc/siteDetails/251) | 字节跳动推出的抖音、西瓜视频等热点指数分析工具 |
+| [新红](https://www.linktre.cc/siteDetails/252) | 新榜有数旗下小红书数据分析工具 |
+| [wideo](https://www.linktre.cc/siteDetails/264) | 广告创意视频制作工具 |
 
 
 ## 在线工具
 
 | 站点 | 简介 |
 | --- | --- |
-| [Favicon.ico图标在线转换](http://ico.hillcloud.net) | 在线png、jpg、gif等格式的图片转ico格式工具 |
-| [一键免费制作ico图标](https://www.logosc.cn/logo/favicon) | 在线ico图标生成工具 |
-| [scamalyticsIp](https://scamalytics.com/ip) | 在线ip干净程度检测工具 |
-| [whoer](https://whoer.net/) | 在线ip、dns检查工具 |
-| [ipinfo](https://ipinfo.io) | 在线ip机场检查工具 |
-| [tinypng](https://tinypng.com) | 在线免费图片压缩工具 |
-| [kraken](https://kraken.io) | 在线图片压缩工具 |
-| [Removebg](https://removebg.one/) | 免登录的100%免费的在线 AI 抠图工具 |
+| [Favicon.ico图标在线转换](https://www.linktre.cc/siteDetails/236) | 在线png、jpg、gif等格式的图片转ico格式工具 |
+| [一键免费制作ico图标](https://www.linktre.cc/siteDetails/237) | 在线ico图标生成工具 |
+| [scamalyticsIp](https://www.linktre.cc/siteDetails/254) | 在线ip干净程度检测工具 |
+| [whoer](https://www.linktre.cc/siteDetails/260) | 在线ip、dns检查工具 |
+| [ipinfo](https://www.linktre.cc/siteDetails/261) | 在线ip机场检查工具 |
+| [tinypng](https://www.linktre.cc/siteDetails/262) | 在线免费图片压缩工具 |
+| [kraken](https://www.linktre.cc/siteDetails/263) | 在线图片压缩工具 |
+| [Removebg](https://www.linktre.cc/siteDetails/275) | 免登录的100%免费的在线 AI 抠图工具 |
 
 
 
@@ -136,16 +186,16 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [SimilarWeb](https://www.similarweb.com/) | 市场营销工具，分析流量数据、用户行为、竞争对手比较等信息 |
-| [亚马逊选品](https://www.amazon.com/gp/most-wished-for) | 买家最常在亚马逊上添加到心愿单和礼物清单的商品 |
-| [速卖通选品](https://www.aliexpress.com/popular.html) | 阿里旗下跨境电商选品平台 |
-| [Helium 10](https://www.helium10.com) | 亚马逊营销分析运营工具 |
-| [algopix](https://algopix.com/) | 亚马逊、eBay 和沃尔玛产品市场研究工具 |
-| [egrow](https://egrow.io/) | 亚马逊数据分析选品工具 |
-| [Plug In SEO](https://apps.shopify.com/plug-in-seo) | shopify的SEO优化工具 |
-| [Ava SEO Image Optimizer Speed](https://apps.shopify.com/avada-seo-suite) | shopify的免费SEO优化工具 |
-| [koala-app](https://koala-apps.io/) | 优秀的shopify竞品分析工具 |
-| [Shine Commerce](https://shinecommerce.com/) | 最知名的shopify对手分析工具 |
+| [SimilarWeb](https://www.linktre.cc/siteDetails/249) | 市场营销工具，分析流量数据、用户行为、竞争对手比较等信息 |
+| [亚马逊选品](https://www.linktre.cc/siteDetails/255) | 买家最常在亚马逊上添加到心愿单和礼物清单的商品 |
+| [速卖通选品](https://www.linktre.cc/siteDetails/256) | 阿里旗下跨境电商选品平台 |
+| [Helium 10](https://www.linktre.cc/siteDetails/257) | 亚马逊营销分析运营工具 |
+| [algopix](https://www.linktre.cc/siteDetails/258) | 亚马逊、eBay 和沃尔玛产品市场研究工具 |
+| [egrow](https://www.linktre.cc/siteDetails/259) | 亚马逊数据分析选品工具 |
+| [Plug In SEO](https://www.linktre.cc/siteDetails/265) | shopify的SEO优化工具 |
+| [Ava SEO Image Optimizer Speed](https://www.linktre.cc/siteDetails/266) | shopify的免费SEO优化工具 |
+| [koala-app](https://www.linktre.cc/siteDetails/267) | 优秀的shopify竞品分析工具 |
+| [Shine Commerce](https://www.linktre.cc/siteDetails/268) | 最知名的shopify对手分析工具 |
 
 
 
