@@ -39,6 +39,61 @@
 | [小微助手](https://xiaowei.weixin.qq.com/) | 腾讯推出的桌面版AI助手工具 |
 
 
+## 独立开发出海--支付工具
+
+| 站点 | 简介 |
+| --- | --- |
+| [Lemon Squeezy](https://www.lemonsqueezy.com) | 支持个人香港卡、虚拟卡，国内开发者首选 |
+| [Stripe](https://stripe.com/) | 企业出海首选,全面的在线支付平台 |
+| [Paddle](https://www.paddle.com/) | 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长 |
+
+
+## 独立开发出海--部署与托管
+
+| 站点 | 简介 |
+| --- | --- |
+| [Cloudflare Pages](https://developers.cloudflare.com/pages/) | 通过Git集成、发布项目，支持全栈应用 |
+| [Vercel](https://vercel.com/) | 穷鬼必备，静态网站和服务器端渲染网站出海托管第一选择！ |
+| [Github Pages](https://pages.github.com/) | 直接从GitHub存储库托管，您仅需编辑和推送代码，您的更改即可快速上线 |
+
+
+## 独立开发出海--图标库
+
+| 站点 | 简介 |
+| --- | --- |
+| [MingCute Pages](https://www.mingcute.com/) | 为设计师和开发者准备的简洁而精致的开源图标库，适合在网页和移动设备上使用 |
+| [iconbuddy](https://iconbuddy.com/) | 提供超过200,000个开源SVG图标的搜索引擎，允许你免费搜索、下载、自定义和编辑图标。 |
+
+
+## 独立开发出海--UI样式
+
+| 站点 | 简介 |
+| --- | --- |
+| [TailwindCSS](https://tailwindcss.com) | 一个功能强大的实用CSS框架，用于快速构建自定义设计的界面。 |
+| [HyperUI](https://www.hyperui.dev) | 一个基于TailwindCSS的开源简约风UI库，强烈推荐! |
+| [Shadcn/ui](https://ui.shadcn.com/) | 开源精美的组件库，复制并粘贴即可完成页面构建 |
+
+
+## 独立开发出海--web开发模板
+
+| 站点 | 简介 |
+| --- | --- |
+| [supastarter](https://supastarter.dev) | 使用流行的前端框架如Next.js和Nuxt，一天之内快速上线! |
+| [nextjs billing](https://github.com/lmsqueezy/nextjs-billing) | 由Lemon Squeezy开源的，计费-LemonSqueezy 授权-NextAuth.js ORM-Prisma 样式-Tailwind CSS 邮件-Resend |
+| [SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) | 一款开源的SaaS模板，非常适合构建自己的SaaS应用。使用React+Tailwind CsS +Shadcn Ul包括身份验证，多租户，角色权限，MFA，用户登录，数据库和日志记录~ |
+| [saasfly](https://github.com/saasfly/saasfly) | SaaS 开发模板，主要是对标 shipfa.st |
+
+
+## 独立开发出海--网站分析
+
+| 站点 | 简介 |
+| --- | --- |
+| [AITDK Extension](https://aitdk.com/zh-CN/extension) | Chrome 插件。网站 SEO 分析工具,强烈安利 |
+| [Umami](https://umami.is/) | 一个简单、易用的开源网站分析工具，它提供用户隐私尊重的方式来跟踪网站访问者的活动和数据 |
+| [Google Analytics](https://analytics.google.com/analytics/web) | 一个强大的网站分析服务，它可以帮助网站所有者理解访客行为，评估营销活动的效果，并改善网站性能 |
+
+
+
 ## 媒体运营
 
 | 站点 | 简介 |
@@ -48,6 +103,7 @@
 | [巨量算数](https://trendinsight.oceanengine.com/arithmetic-index) | 字节跳动推出的抖音、西瓜视频等热点指数分析工具 |
 | [新红](https://xh.newrank.cn/) | 新榜有数旗下小红书数据分析工具 |
 | [wideo](https://wideo.co/) | 广告创意视频制作工具 |
+
 
 ## 在线工具
 
