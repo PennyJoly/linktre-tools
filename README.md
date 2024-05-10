@@ -47,6 +47,21 @@
 | [新红](https://xh.newrank.cn/) | 新榜有数旗下小红书数据分析工具 |
 | [wideo](https://wideo.co/) | 广告创意视频制作工具 |
 
+## 跨境电商
+
+| 站点 | 简介 |
+| --- | --- |
+| [SimilarWeb](https://www.similarweb.com/) | 市场营销工具，分析流量数据、用户行为、竞争对手比较等信息 |
+| [亚马逊选品](https://www.amazon.com/gp/most-wished-for) | 买家最常在亚马逊上添加到心愿单和礼物清单的商品 |
+| [速卖通选品](https://www.aliexpress.com/popular.html) | 阿里旗下跨境电商选品平台 |
+| [Helium 10](https://www.helium10.com) | 亚马逊营销分析运营工具 |
+| [algopix](https://algopix.com/) | 亚马逊、eBay 和沃尔玛产品市场研究工具 |
+| [egrow](https://egrow.io/) | 亚马逊数据分析选品工具 |
+| [Plug In SEO](https://apps.shopify.com/plug-in-seo) | shopify的SEO优化工具 |
+| [Ava SEO Image Optimizer Speed](https://apps.shopify.com/avada-seo-suite) | shopify的免费SEO优化工具 |
+| [koala-app](https://koala-apps.io/) | 优秀的shopify竞品分析工具 |
+| [Shine Commerce](https://shinecommerce.com/) | 最知名的shopify对手分析工具 |
+
 
 
 
