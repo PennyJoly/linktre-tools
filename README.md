@@ -34,6 +34,8 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [AITalk](https://www.linktre.cc/siteDetails/318) | 先进AI导师帮助用户通过即时反馈迅速掌握新语言的应用程序 |
+| [HeyMusic.AI](https://www.linktre.cc/siteDetails/316) | 利用生成式AI技术轻松将歌词转化为个性化音乐 |
 | [文心一言](https://www.linktre.cc/siteDetails/244) | 百度推出的基于文心大模型的AI对话互动工具 |
 | [ChatGLM](https://www.linktre.cc/siteDetails/245) | 开源的、支持中英双语的1300亿参数的对话语言模型 |
 | [通义千问](https://www.linktre.cc/siteDetails/246) | 阿里推出类ChatGPT的产品 |
@@ -155,6 +157,8 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [HeyForm](https://www.linktre.cc/siteDetails/315) | 开源且无代码式的表单快速构建工具 |
+| [SimUI模拟游戏管理软件](https://www.linktre.cc/siteDetails/317) | 热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件 |
 | [兔兔答题](https://www.linktre.cc/siteDetails/299) | 开源免费在线考试，企业培训软件综合平台 |
 | [Inpaint-web](https://www.linktre.cc/siteDetails/300) | 免费开源的AI图片消除、高清修复工具 |
 
