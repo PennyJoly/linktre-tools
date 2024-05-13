@@ -34,7 +34,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [AITalk](https://www.linktre.cc/siteDetails/318) | 先进AI导师帮助用户通过即时反馈迅速掌握新语言的应用程序 |
+| [suno-list](https://www.linktre.cc/siteDetails/319) | 收录了suno每日top10的榜单，并且加上自己的双语点评|
+| [suno-top](https://www.linktre.cc/siteDetails/320) | 免费下载suno音乐（官方没开放下载），定时更新制作AI音乐技巧 |
+| [AI迷宫生成](https://www.linktre.cc/siteDetails/321) | 免费生成二维迷宫，可以定制生成的大小、复杂程度和提前知道答案 |
+| [aitoolshubs.com](https://www.linktre.cc/siteDetails/322) | 免费收录AI工具，提供导航和外链，同时编辑会提供使用感受和优化意见 |
 | [HeyMusic.AI](https://www.linktre.cc/siteDetails/316) | 利用生成式AI技术轻松将歌词转化为个性化音乐 |
 | [文心一言](https://www.linktre.cc/siteDetails/244) | 百度推出的基于文心大模型的AI对话互动工具 |
 | [ChatGLM](https://www.linktre.cc/siteDetails/245) | 开源的、支持中英双语的1300亿参数的对话语言模型 |
