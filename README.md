@@ -6,6 +6,12 @@
 欢迎提交 pr 和 issues 进行更新，每日持续关注。
 喜欢的话欢迎踊跃✨✨STAR✨✨
 
+各位老板你们好，近期咱们这边上新一款产品，不知道你们平常工作生活中，会不会用到chatgpt4.0，我们即将上新一个openai服务中转站，为了回馈各位老板，该产品价格力求做到全网最低， 最大能达到0.01人民币兑换100美元token的量，支持openai旗下所有产品。群每增加20人，我发放一个gpt4.0的token出来，感兴趣的老板可以扫描二维码进群了解详情。
+
+<img src="https://img.bnyer.cn/site/wechatgroup.jpg" alt="img" width="400">
+<img src="https://img.bnyer.cn/site/wechat.jpg" alt="img" width="400">
+
+
 ## 节点推荐
 
 | 站点 | 简介 |
@@ -207,6 +213,10 @@
 | [Ava SEO Image Optimizer Speed](https://www.linktre.cc/siteDetails/266) | shopify的免费SEO优化工具 |
 | [koala-app](https://www.linktre.cc/siteDetails/267) | 优秀的shopify竞品分析工具 |
 | [Shine Commerce](https://www.linktre.cc/siteDetails/268) | 最知名的shopify对手分析工具 |
+
+## Buy me coffee
+<img src="https://img.bnyer.cn/site/apipay.jpg" alt="img" width="400">
+<img src="https://img.bnyer.cn/site/wechatpay.jpg" alt="img" width="400">
 
 
 
