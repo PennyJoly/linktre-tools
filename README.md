@@ -40,6 +40,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [Rap Generato](https://www.linktre.cc/siteDetails/323) | 生成说唱歌词和歌曲的免费AI工具|
 | [suno-list](https://www.linktre.cc/siteDetails/319) | 收录了suno每日top10的榜单，并且加上自己的双语点评|
 | [suno-top](https://www.linktre.cc/siteDetails/320) | 免费下载suno音乐（官方没开放下载），定时更新制作AI音乐技巧 |
 | [AI迷宫生成](https://www.linktre.cc/siteDetails/321) | 免费生成二维迷宫，可以定制生成的大小、复杂程度和提前知道答案 |
