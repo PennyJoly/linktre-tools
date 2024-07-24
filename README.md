@@ -35,6 +35,8 @@
 | [Sora](https://www.linktre.cc/siteDetails/241) |OpenAI推出的AI文本到视频生成模型 |
 | [Suno AI](https://www.linktre.cc/siteDetails/242) | 麻省理工团队推出的人工智能音乐生成器 |
 | [GeminiProChat](https://www.linktre.cc/siteDetails/243) | 开源免费的GeminiPro 对话平台 |
+| [Llama](https://www.linktre.cc/siteDetails/327) | 谷歌开源且性能远超GPT-4o的模型 |
+| [Luma AI](https://www.linktre.cc/siteDetails/328) | 一款基于AI人工智能的三维捕捉,建模与渲染工具。它采用计算机视觉与机器学习技术,可以通过iPhone手机摄像头捕捉实物并自动生成与之高度匹配的三维模型,实现三维建模的自动AI工具 |
 
 
 ## 国内热门AI产品
