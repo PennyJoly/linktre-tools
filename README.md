@@ -22,6 +22,14 @@
 | [CheapGpt中转api](https://linktre.cc/siteDetails/324) | 全网最低的openai、Azure GPT3.5-4.0语言对话模型中转api，目前最低低至0.5RMB/刀 |
 | [CheapGpt发卡](https://linktre.cc/siteDetails/325) | CheapGpt对应的专属发卡网站，最低0.5RMB/刀openai、Azure的token额度 |
 
+## 今日更新
+
+| 站点 | 简介 |
+| --- | --- |
+| [SearchGPT）](https://www.linktre.cc/siteDetails/329) | OpenAI最新推出的AI搜索产品，内测开放 |
+| [v0.dev](https://www.linktre.cc/siteDetails/330) | Vercel推出AI生成前端React/UI组件 |
+| [Udio](https://www.linktre.cc/siteDetails/331) | 免费的AI音乐创作工具，每月可生成1200首歌曲 |
+| [Free Gpt Detector](https://www.linktre.cc/siteDetails/332) | 一个基于 🤗/Transformers 的AI内容在线检测工具。输入文本以查看预测概率，从大约 50 个标记开始即可获得可靠的结果 |
 
 
 ## 国外热门AI产品
