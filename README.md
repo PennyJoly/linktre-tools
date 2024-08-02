@@ -28,10 +28,11 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [TikTok to MP3](https://www.linktre.cc/siteDetails/333) | 使用我们的 TikTok 到 MP3 转换器，轻松将您最喜欢的 TikTok 声音转换并保存为 MP3 文件 |
-| [BeautyPlus](https://www.linktre.cc/siteDetails/334) | 免费在线 AI 照片编辑器和设计工具。一体化照片/视频编辑器。探索网络上 BeautyPlus AI 照片编辑器上的所有滤镜、功能、特效、内容等。 |
-| [AI Cartoon Generator](https://www.linktre.cc/siteDetails/335) | 使用 Image to Cartoons 将图像转换为迷人的卡通 - 这是一种强大的 AI 工具，支持卡通女性肖像、卡通动物头像等。探索西方、政治和编辑主题的 2D 和 3D 卡通风格。立即试用我们的卡通人物生成器！ |
-| [Smallppt](https://www.linktre.cc/siteDetails/336) | Smallppt：创建令人惊叹的 AI 演示文稿和思维导图工具 |
+| [Grok](https://www.linktre.cc/siteDetails/338) |马斯克旗下xAI推出的人工智能助手 |
+| [Notion AI](https://www.linktre.cc/siteDetails/339) | Notion推出的AI内容创作助手 |
+| [RSSHub](https://www.linktre.cc/siteDetails/340) | RSSHub 是一个开源、易于使用且可扩展的 RSS 源生成器 |
+| [ChatGPT Next Web](https://www.linktre.cc/siteDetails/341) | 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。搭配低价【CheapGpt中转api】更好用哟！ |
+
 
 
 ## 国外热门AI产品
@@ -52,6 +53,10 @@
 | [v0.dev](https://www.linktre.cc/siteDetails/330) | Vercel推出AI生成前端React/UI组件 |
 | [Udio](https://www.linktre.cc/siteDetails/331) | 免费的AI音乐创作工具，每月可生成1200首歌曲 |
 | [Free Gpt Detector](https://www.linktre.cc/siteDetails/332) | 一个基于 🤗/Transformers 的AI内容在线检测工具。输入文本以查看预测概率，从大约 50 个标记开始即可获得可靠的结果 |
+| [TikTok to MP3](https://www.linktre.cc/siteDetails/333) | 使用我们的 TikTok 到 MP3 转换器，轻松将您最喜欢的 TikTok 声音转换并保存为 MP3 文件 |
+| [BeautyPlus](https://www.linktre.cc/siteDetails/334) | 免费在线 AI 照片编辑器和设计工具。一体化照片/视频编辑器。探索网络上 BeautyPlus AI 照片编辑器上的所有滤镜、功能、特效、内容等。 |
+| [AI Cartoon Generator](https://www.linktre.cc/siteDetails/335) | 使用 Image to Cartoons 将图像转换为迷人的卡通 - 这是一种强大的 AI 工具，支持卡通女性肖像、卡通动物头像等。探索西方、政治和编辑主题的 2D 和 3D 卡通风格。立即试用我们的卡通人物生成器！ |
+| [Smallppt](https://www.linktre.cc/siteDetails/336) | Smallppt：创建令人惊叹的 AI 演示文稿和思维导图工具 |
 
 
 ## 国内热门AI产品
