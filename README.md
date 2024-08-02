@@ -31,7 +31,7 @@
 | [Grok](https://www.linktre.cc/siteDetails/338) |马斯克旗下xAI推出的人工智能助手 |
 | [Notion AI](https://www.linktre.cc/siteDetails/339) | Notion推出的AI内容创作助手 |
 | [RSSHub](https://www.linktre.cc/siteDetails/340) | RSSHub 是一个开源、易于使用且可扩展的 RSS 源生成器 |
-| [ChatGPT Next Web](https://www.linktre.cc/siteDetails/341) | 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。搭配低价【CheapGpt中转api】更好用哟！ |
+| [ChatGPT Next Web](https://www.linktre.cc/siteDetails/341) | 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。搭配低价[CheapGpt中转api](https://linktre.cc/siteDetails/324)更好用哟！ |
 
 
 
