@@ -28,10 +28,12 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [Grok](https://www.linktre.cc/siteDetails/338) |马斯克旗下xAI推出的人工智能助手 |
-| [Notion AI](https://www.linktre.cc/siteDetails/339) | Notion推出的AI内容创作助手 |
-| [RSSHub](https://www.linktre.cc/siteDetails/340) | RSSHub 是一个开源、易于使用且可扩展的 RSS 源生成器 |
-| [ChatGPT Next Web](https://www.linktre.cc/siteDetails/341) | 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。搭配低价[CheapGpt中转api](https://linktre.cc/siteDetails/324)更好用哟！ |
+| [adcopy](https://www.linktre.cc/siteDetails/342) | Meta Ads AI 是一种工具，旨在通过利用人工智能进行拆分测试、文案撰写和优化来增强 Meta 平台上的广告活动，确保更快地发布广告并提高效果 |
+| [Humanize AI Text](https://www.linktre.cc/siteDetails/343) | Humanize AI Text 是一款免费的在线工具，旨在使用先进的自然语言处理模型将文本转换为更加个性化、更具吸引力和更自然的风格。 |
+| [ChordChord](https://www.linktre.cc/siteDetails/344) |ChordChord：歌曲创作和音乐制作工具。我们重视您的隐私。我们使用 Cookie 来增强您的浏览体验、提供个性化广告或内容以及分析我们的流量。 |
+| [Scrip AI](https://www.linktre.cc/siteDetails/345) | Scrip AI 提供免费的 AI 内容工具，可帮助用户以 10 倍的速度创建各种类型的内容，无需信用卡或登录。 |
+
+
 
 
 
@@ -57,6 +59,8 @@
 | [BeautyPlus](https://www.linktre.cc/siteDetails/334) | 免费在线 AI 照片编辑器和设计工具。一体化照片/视频编辑器。探索网络上 BeautyPlus AI 照片编辑器上的所有滤镜、功能、特效、内容等。 |
 | [AI Cartoon Generator](https://www.linktre.cc/siteDetails/335) | 使用 Image to Cartoons 将图像转换为迷人的卡通 - 这是一种强大的 AI 工具，支持卡通女性肖像、卡通动物头像等。探索西方、政治和编辑主题的 2D 和 3D 卡通风格。立即试用我们的卡通人物生成器！ |
 | [Smallppt](https://www.linktre.cc/siteDetails/336) | Smallppt：创建令人惊叹的 AI 演示文稿和思维导图工具 |
+| [Grok](https://www.linktre.cc/siteDetails/338) |马斯克旗下xAI推出的人工智能助手 |
+| [Notion AI](https://www.linktre.cc/siteDetails/339) | Notion推出的AI内容创作助手 |
 
 
 ## 国内热门AI产品
@@ -76,6 +80,7 @@
 | [豆包AI](https://www.linktre.cc/siteDetails/253) | 字节跳动旗下推出的AI人工智能助手 |
 | [C知道](https://so.csdn.net/chat?utm_source=ai-bot.cn) | CSDN推出的技术答疑工具助手 |
 | [小微助手](https://xiaowei.weixin.qq.com/) | 腾讯推出的桌面版AI助手工具 |
+| [ChatGPT Next Web](https://www.linktre.cc/siteDetails/341) | 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。搭配低价[CheapGpt中转api](https://linktre.cc/siteDetails/324)更好用哟！ |
 
 
 ## 独立开发出海--支付工具
@@ -194,6 +199,7 @@
 | [SimUI模拟游戏管理软件](https://www.linktre.cc/siteDetails/317) | 热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件 |
 | [兔兔答题](https://www.linktre.cc/siteDetails/299) | 开源免费在线考试，企业培训软件综合平台 |
 | [Inpaint-web](https://www.linktre.cc/siteDetails/300) | 免费开源的AI图片消除、高清修复工具 |
+| [RSSHub](https://www.linktre.cc/siteDetails/340) | RSSHub 是一个开源、易于使用且可扩展的 RSS 源生成器 |
 | [𝑷𝒓𝒐𝒙𝒚𝑿𝑨𝑰](https://www.linktre.cc/siteDetails/337) | 一款创新驱动力 为人工智能行业的先驱者提供坚实的基础支持 |
 
 
