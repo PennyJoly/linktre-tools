@@ -17,20 +17,20 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [节点链接-短链接制作-你的无风险引流营销黑科技（基础免费）](https://links.bnyer.cn) | 基础免费支持短链接生成、全平台链接一键跳转微信引流工具 |
-| [节点导航站(开源版本)](https://github.com/PennyJoly/linktre.cc) | 具备完整的前后台且模块化友好支持SEO的导航站点 |
+| [节点链接-短链接制作-你的无风险引流营销黑科技（基础免费）](https://links.bnyer.cn) | 节点链接是一个基础免费支持短链接生成、全平台链接一键跳转微信引流工具 |
+| [节点导航站(开源版本)](https://github.com/PennyJoly/linktre.cc) | 节点导航站开源版本具备完整的前后台且模块化友好支持SEO的导航站点 |
 | [AI Tools工具箱-你的人工智能小助手（基础免费）](https://www.think-php.xyz) | 新手博主人工智能GPT4高级媒体创作工具 |
-| [CheapGpt中转api](https://linktre.cc/siteDetails/324) | 全网最低的openai、Azure GPT3.5-4.0语言对话模型中转api，目前最低低至0.5RMB/刀 |
+| [CheapGpt中转api](https://linktre.cc/siteDetails/324) | CheapGpt中转api是一个全网最低的openai、Azure GPT3.5-4.0语言对话模型中转api，目前最低低至0.5RMB/刀 |
 | [CheapGpt发卡](https://linktre.cc/siteDetails/325) | CheapGpt对应的专属发卡网站，最低0.5RMB/刀openai、Azure的token额度 |
 
 ## 今日更新
 
 | 站点 | 简介 |
 | --- | --- |
-| [adcopy](https://www.linktre.cc/siteDetails/342) | Meta Ads AI 是一种工具，旨在通过利用人工智能进行拆分测试、文案撰写和优化来增强 Meta 平台上的广告活动，确保更快地发布广告并提高效果 |
-| [Humanize AI Text](https://www.linktre.cc/siteDetails/343) | Humanize AI Text 是一款免费的在线工具，旨在使用先进的自然语言处理模型将文本转换为更加个性化、更具吸引力和更自然的风格。 |
-| [ChordChord](https://www.linktre.cc/siteDetails/344) |ChordChord：歌曲创作和音乐制作工具。我们重视您的隐私。我们使用 Cookie 来增强您的浏览体验、提供个性化广告或内容以及分析我们的流量。 |
-| [Scrip AI](https://www.linktre.cc/siteDetails/345) | Scrip AI 提供免费的 AI 内容工具，可帮助用户以 10 倍的速度创建各种类型的内容，无需信用卡或登录。 |
+| [Discover AI](https://www.linktre.cc/siteDetails/346) | 一个免登陆即可用于搜索人工智能工具或您自己的数据的AI人工智能搜索引擎。 |
+| [Deploy](https://www.linktre.cc/siteDetails/347) | Dokploy 是一个免费的自托管平台即服务，可简化应用程序和数据库的部署和管理。 |
+| [Aide](https://www.linktre.cc/siteDetails/348) | 在vscode中一键注释、转换、UI 图生成代码、AI 批量处理文件！ |
+| [MinerU](https://www.linktre.cc/siteDetails/349) | MinerU 是一款一站式、开源、高质量的数据提取工具。 |
 
 
 
@@ -60,6 +60,10 @@
 | [Smallppt](https://www.linktre.cc/siteDetails/336) | Smallppt：创建令人惊叹的 AI 演示文稿和思维导图工具 |
 | [Grok](https://www.linktre.cc/siteDetails/338) |马斯克旗下xAI推出的人工智能助手 |
 | [Notion AI](https://www.linktre.cc/siteDetails/339) | Notion推出的AI内容创作助手 |
+| [adcopy](https://www.linktre.cc/siteDetails/342) | Meta Ads AI 是一种工具，旨在通过利用人工智能进行拆分测试、文案撰写和优化来增强 Meta 平台上的广告活动，确保更快地发布广告并提高效果 |
+| [Humanize AI Text](https://www.linktre.cc/siteDetails/343) | Humanize AI Text 是一款免费的在线工具，旨在使用先进的自然语言处理模型将文本转换为更加个性化、更具吸引力和更自然的风格。 |
+| [ChordChord](https://www.linktre.cc/siteDetails/344) |ChordChord：歌曲创作和音乐制作工具。我们重视您的隐私。我们使用 Cookie 来增强您的浏览体验、提供个性化广告或内容以及分析我们的流量。 |
+| [Scrip AI](https://www.linktre.cc/siteDetails/345) | Scrip AI 提供免费的 AI 内容工具，可帮助用户以 10 倍的速度创建各种类型的内容，无需信用卡或登录。 |
 
 
 ## 国内热门AI产品
