@@ -27,10 +27,11 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [Discover AI](https://www.linktre.cc/siteDetails/346) | 一个免登陆即可用于搜索人工智能工具或您自己的数据的AI人工智能搜索引擎。 |
-| [Deploy](https://www.linktre.cc/siteDetails/347) | Dokploy 是一个免费的自托管平台即服务，可简化应用程序和数据库的部署和管理。 |
-| [Aide](https://www.linktre.cc/siteDetails/348) | 在vscode中一键注释、转换、UI 图生成代码、AI 批量处理文件！ |
-| [MinerU](https://www.linktre.cc/siteDetails/349) | MinerU 是一款一站式、开源、高质量的数据提取工具。 |
+| [Vizcom](https://www.linktre.cc/siteDetails/350) | AI渲染转化手绘图为产品设计图! |
+| [DeepSwapper](https://www.linktre.cc/siteDetails/351) | 免费的在线AI换脸工具，支持图片、视频多种格式 |
+| [Koko AI](https://www.linktre.cc/siteDetails/352) | Seele公司推出的「AI+3D」情感陪伴产品 |
+| [Shiro](https://www.linktre.cc/siteDetails/353) | 一个极简主义的开源个人网站blog，纸的纯净和雪的清新。 |
+
 
 
 
@@ -84,6 +85,8 @@
 | [C知道](https://so.csdn.net/chat?utm_source=ai-bot.cn) | CSDN推出的技术答疑工具助手 |
 | [小微助手](https://xiaowei.weixin.qq.com/) | 腾讯推出的桌面版AI助手工具 |
 | [ChatGPT Next Web](https://www.linktre.cc/siteDetails/341) | 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。搭配低价[CheapGpt中转api](https://linktre.cc/siteDetails/324)更好用哟！ |
+| [Discover AI](https://www.linktre.cc/siteDetails/346) | 一个免登陆即可用于搜索人工智能工具或您自己的数据的AI人工智能搜索引擎。 |
+| [Aide](https://www.linktre.cc/siteDetails/348) | 在vscode中一键注释、转换、UI 图生成代码、AI 批量处理文件！ |
 
 
 ## 独立开发出海--支付工具
@@ -203,7 +206,10 @@
 | [兔兔答题](https://www.linktre.cc/siteDetails/299) | 开源免费在线考试，企业培训软件综合平台 |
 | [Inpaint-web](https://www.linktre.cc/siteDetails/300) | 免费开源的AI图片消除、高清修复工具 |
 | [RSSHub](https://www.linktre.cc/siteDetails/340) | RSSHub 是一个开源、易于使用且可扩展的 RSS 源生成器 |
+| [Deploy](https://www.linktre.cc/siteDetails/347) | Dokploy 是一个免费的自托管平台即服务，可简化应用程序和数据库的部署和管理。 |
+| [MinerU](https://www.linktre.cc/siteDetails/349) | MinerU 是一款一站式、开源、高质量的数据提取工具。 |
 | [𝑷𝒓𝒐𝒙𝒚𝑿𝑨𝑰](https://www.linktre.cc/siteDetails/337) | 一款创新驱动力 为人工智能行业的先驱者提供坚实的基础支持 |
+
 
 
 
