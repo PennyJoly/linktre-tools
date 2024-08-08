@@ -28,17 +28,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [Riffo](https://www.linktre.cc/siteDetails/354) | Riffo是一款旨在帮助用户简化文件重命名和组织流程的AI助手。 |
-| [Creatify](https://www.linktre.cc/siteDetails/355) | 一段简单的描述ai生成营销视频 |
-| [Intimal AI](https://www.linktre.cc/siteDetails/356) | Intimal AI是一个AI恋爱导师，解决你的爱情问题 |
-| [来客乐](https://www.linktre.cc/siteDetails/357) | 一体化运输解决方案，低价PB / USPS 账号服务 |
-| [postmark templates](https://www.linktre.cc/siteDetails/358) | 一款电子邮件模板编辑工具 |
-| [Resend](https://www.linktre.cc/siteDetails/359) | 提供免费支持的临时邮件服务，专注于开发者 |
-| [Tally](https://www.linktre.cc/siteDetails/360) | Tally 是一个用户友好的在线表单构建平台 |
-| [tld-list](https://www.linktre.cc/siteDetails/361) | 域名购买比价网，你的省钱小助手 |
-
-
-
+| [exo](https://www.linktre.cc/siteDetails/362) | 在家使用日常设备搭建自己的AI集群 |
+| [NameSnack](https://www.linktre.cc/siteDetails/363) | 100 + 创意、短小、可用的商业名字 |
+| [Noisee AI](https://www.linktre.cc/siteDetails/364) | 将您喜爱的旋律转化为音乐视频。 |
+| [UI Colorful](https://www.linktre.cc/siteDetails/365) | 个性化网站主题颜色生成器。 |
 
 
 
@@ -73,6 +66,9 @@
 | [Vizcom](https://www.linktre.cc/siteDetails/350) | AI渲染转化手绘图为产品设计图! |
 | [DeepSwapper](https://www.linktre.cc/siteDetails/351) | 免费的在线AI换脸工具，支持图片、视频多种格式 |
 | [Koko AI](https://www.linktre.cc/siteDetails/352) | Seele公司推出的「AI+3D」情感陪伴产品 |
+| [Riffo](https://www.linktre.cc/siteDetails/354) | Riffo是一款旨在帮助用户简化文件重命名和组织流程的AI助手。 |
+| [Creatify](https://www.linktre.cc/siteDetails/355) | 一段简单的描述ai生成营销视频 |
+| [Intimal AI](https://www.linktre.cc/siteDetails/356) | Intimal AI是一个AI恋爱导师，解决你的爱情问题 |
 
 
 ## 国内热门AI产品
@@ -187,6 +183,11 @@
 | [Clerk](https://www.linktre.cc/siteDetails/297) | 免费用户 5000 MAU |
 | [Logto](https://www.linktre.cc/siteDetails/298) | 登录鉴权，有云端版和开源的私有化部署版 |
 
+## 独立开发出海--邮件服务
+
+| 站点 | 简介 |
+| --- | --- |
+| [tld-list](https://www.linktre.cc/siteDetails/359) | 提供免费支持的临时邮件服务，专注于开发者 |
 
 ## 独立开发出海--广告联盟
 
@@ -217,7 +218,8 @@
 | [Deploy](https://www.linktre.cc/siteDetails/347) | Dokploy 是一个免费的自托管平台即服务，可简化应用程序和数据库的部署和管理。 |
 | [MinerU](https://www.linktre.cc/siteDetails/349) | MinerU 是一款一站式、开源、高质量的数据提取工具。 |
 | [Shiro](https://www.linktre.cc/siteDetails/353) | 一个极简主义的开源个人网站blog，纸的纯净和雪的清新。 |
-| [𝑷𝒓𝒐𝒙𝒚𝑿𝑨𝑰](https://www.linktre.cc/siteDetails/337) | 一款创新驱动力 为人工智能行业的先驱者提供坚实的基础支持 |
+| [postmark templates](https://www.linktre.cc/siteDetails/358) | 一款电子邮件模板编辑工具 |
+| [ProxyXAI](https://www.linktre.cc/siteDetails/337) | 一款创新驱动力 为人工智能行业的先驱者提供坚实的基础支持 |
 
 
 
@@ -246,6 +248,8 @@
 | [tinypng](https://www.linktre.cc/siteDetails/262) | 在线免费图片压缩工具 |
 | [kraken](https://www.linktre.cc/siteDetails/263) | 在线图片压缩工具 |
 | [Removebg](https://www.linktre.cc/siteDetails/275) | 免登录的100%免费的在线 AI 抠图工具 |
+| [Tally](https://www.linktre.cc/siteDetails/360) | Tally 是一个用户友好的在线表单构建平台 |
+
 
 
 
@@ -263,6 +267,7 @@
 | [Ava SEO Image Optimizer Speed](https://www.linktre.cc/siteDetails/266) | shopify的免费SEO优化工具 |
 | [koala-app](https://www.linktre.cc/siteDetails/267) | 优秀的shopify竞品分析工具 |
 | [Shine Commerce](https://www.linktre.cc/siteDetails/268) | 最知名的shopify对手分析工具 |
+| [来客乐](https://www.linktre.cc/siteDetails/357) | 一体化运输解决方案，低价PB / USPS 账号服务 |
 
 ## Buy me coffee
 <img src="https://img.bnyer.cn/site/apipay.jpg" alt="img" width="400">
