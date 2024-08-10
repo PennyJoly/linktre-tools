@@ -28,10 +28,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [exo](https://www.linktre.cc/siteDetails/362) | 在家使用日常设备搭建自己的AI集群 |
-| [NameSnack](https://www.linktre.cc/siteDetails/363) | 100 + 创意、短小、可用的商业名字 |
-| [Noisee AI](https://www.linktre.cc/siteDetails/364) | 将您喜爱的旋律转化为音乐视频。 |
-| [UI Colorful](https://www.linktre.cc/siteDetails/365) | 个性化网站主题颜色生成器。 |
+| [logobean](https://www.linktre.cc/siteDetails/366) | 创业者的在线Logo制作工具 |
+| [PS2 Filter AI Tool](https://www.linktre.cc/siteDetails/367) | 一键生成复古PS2风格图片 |
+| [WebLens](https://www.linktre.cc/siteDetails/368) | 网站分析与A/B测试工具 |
+| [UserCue](https://www.linktre.cc/siteDetails/369) | ai帮助分析你的用户行为，提升转化率 |
 
 
 
@@ -69,6 +69,10 @@
 | [Riffo](https://www.linktre.cc/siteDetails/354) | Riffo是一款旨在帮助用户简化文件重命名和组织流程的AI助手。 |
 | [Creatify](https://www.linktre.cc/siteDetails/355) | 一段简单的描述ai生成营销视频 |
 | [Intimal AI](https://www.linktre.cc/siteDetails/356) | Intimal AI是一个AI恋爱导师，解决你的爱情问题 |
+| [exo](https://www.linktre.cc/siteDetails/362) | 在家使用日常设备搭建自己的AI集群 |
+| [NameSnack](https://www.linktre.cc/siteDetails/363) | 100 + 创意、短小、可用的商业名字 |
+| [Noisee AI](https://www.linktre.cc/siteDetails/364) | 将您喜爱的旋律转化为音乐视频。 |
+| [UI Colorful](https://www.linktre.cc/siteDetails/365) | 个性化网站主题颜色生成器。 |
 
 
 ## 国内热门AI产品
