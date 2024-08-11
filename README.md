@@ -28,10 +28,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [logobean](https://www.linktre.cc/siteDetails/366) | 创业者的在线Logo制作工具 |
-| [PS2 Filter AI Tool](https://www.linktre.cc/siteDetails/367) | 一键生成复古PS2风格图片 |
-| [WebLens](https://www.linktre.cc/siteDetails/368) | 网站分析与A/B测试工具 |
-| [UserCue](https://www.linktre.cc/siteDetails/369) | ai帮助分析你的用户行为，提升转化率 |
+| [AlphaRank SEO](https://www.linktre.cc/siteDetails/370) | Shopify店铺设计的AI SEO优化工具 |
+| [freeprivacypolicy](https://www.linktre.cc/siteDetails/371) | 免费在线隐私政策生成器 |
+| [ShotEasy](https://www.linktre.cc/siteDetails/372) | 轻量级免费在线开源屏幕截图工具 |
+| [htmlrev](https://www.linktre.cc/siteDetails/373) | 1500+免费的 HTML 模板 |
 
 
 
@@ -73,6 +73,10 @@
 | [NameSnack](https://www.linktre.cc/siteDetails/363) | 100 + 创意、短小、可用的商业名字 |
 | [Noisee AI](https://www.linktre.cc/siteDetails/364) | 将您喜爱的旋律转化为音乐视频。 |
 | [UI Colorful](https://www.linktre.cc/siteDetails/365) | 个性化网站主题颜色生成器。 |
+| [logobean](https://www.linktre.cc/siteDetails/366) | 创业者的在线Logo制作工具 |
+| [PS2 Filter AI Tool](https://www.linktre.cc/siteDetails/367) | 一键生成复古PS2风格图片 |
+| [WebLens](https://www.linktre.cc/siteDetails/368) | 网站分析与A/B测试工具 |
+| [UserCue](https://www.linktre.cc/siteDetails/369) | ai帮助分析你的用户行为，提升转化率 |
 
 
 ## 国内热门AI产品
