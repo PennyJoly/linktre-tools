@@ -191,7 +191,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [tld-list](https://www.linktre.cc/siteDetails/359) | 提供免费支持的临时邮件服务，专注于开发者 |
+| [Resend](https://www.linktre.cc/siteDetails/359) | 提供免费支持的临时邮件服务，专注于开发者 |
 
 ## 独立开发出海--广告联盟
 
