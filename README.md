@@ -28,10 +28,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [AlphaRank SEO](https://www.linktre.cc/siteDetails/370) | Shopify店铺设计的AI SEO优化工具 |
-| [freeprivacypolicy](https://www.linktre.cc/siteDetails/371) | 免费在线隐私政策生成器 |
-| [ShotEasy](https://www.linktre.cc/siteDetails/372) | 轻量级免费在线开源屏幕截图工具 |
-| [htmlrev](https://www.linktre.cc/siteDetails/373) | 1500+免费的 HTML 模板 |
+| [ChatGPT Shortcut](https://www.linktre.cc/siteDetails/374) | 开源的简单易用的ChatGPT快捷指令，让生产力加倍！ |
+| [Riffusion](https://www.linktre.cc/siteDetails/375) | AI生成不同风格的音乐，免费开源 |
+| [Dexa AI](https://www.linktre.cc/siteDetails/376) | AI播客搜索工具 |
+| [Adot](https://www.linktre.cc/siteDetails/377) | 一个由AI驱动的 Web3 搜索引擎 |
 
 
 
@@ -144,6 +144,7 @@
 | [nextjs billing](https://www.linktre.cc/siteDetails/282) | 由Lemon Squeezy开源的，计费-LemonSqueezy 授权-NextAuth.js ORM-Prisma 样式-Tailwind CSS 邮件-Resend |
 | [SaaS-Boilerplate](https://www.linktre.cc/siteDetails/283) | 一款开源的SaaS模板，非常适合构建自己的SaaS应用。使用React+Tailwind CsS +Shadcn Ul包括身份验证，多租户，角色权限，MFA，用户登录，数据库和日志记录~ |
 | [saasfly](https://www.linktre.cc/siteDetails/284) | SaaS 开发模板，主要是对标 shipfa.st |
+| [htmlrev](https://www.linktre.cc/siteDetails/373) | 1500+免费的 HTML 模板 |
 
 
 ## 独立开发出海--网站分析
@@ -196,6 +197,7 @@
 | 站点 | 简介 |
 | --- | --- |
 | [Resend](https://www.linktre.cc/siteDetails/359) | 提供免费支持的临时邮件服务，专注于开发者 |
+| [freeprivacypolicy](https://www.linktre.cc/siteDetails/371) | 免费在线隐私政策生成器 |
 
 ## 独立开发出海--域名
 
@@ -263,6 +265,7 @@
 | [kraken](https://www.linktre.cc/siteDetails/263) | 在线图片压缩工具 |
 | [Removebg](https://www.linktre.cc/siteDetails/275) | 免登录的100%免费的在线 AI 抠图工具 |
 | [Tally](https://www.linktre.cc/siteDetails/360) | Tally 是一个用户友好的在线表单构建平台 |
+| [ShotEasy](https://www.linktre.cc/siteDetails/372) | 轻量级免费在线开源屏幕截图工具 |
 
 
 
@@ -282,6 +285,7 @@
 | [koala-app](https://www.linktre.cc/siteDetails/267) | 优秀的shopify竞品分析工具 |
 | [Shine Commerce](https://www.linktre.cc/siteDetails/268) | 最知名的shopify对手分析工具 |
 | [来客乐](https://www.linktre.cc/siteDetails/357) | 一体化运输解决方案，低价PB / USPS 账号服务 |
+| [AlphaRank SEO](https://www.linktre.cc/siteDetails/370) | Shopify店铺设计的AI SEO优化工具 |
 
 ## Buy me coffee
 <img src="https://img.bnyer.cn/site/apipay.jpg" alt="img" width="400">
