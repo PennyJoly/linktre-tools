@@ -28,7 +28,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [OpenAPI UI](https://www.linktre.cc/siteDetails/378) | 更简洁美观的OpenAPI开源接口文档工具！ |
+| [OpenAPI UI](https://www.linktre.cc/siteDetails/378) | 更简洁美观的OpenAPI开源接口文档工具 |
 | [Tusk](https://www.linktre.cc/siteDetails/379) | AI编码助手，自动化解决代码问题 |
 | [Omages](https://www.linktre.cc/siteDetails/380) | 3D模型转换为64x64像素图像工具 |
 | [Railway](https://www.linktre.cc/siteDetails/381) | 提供了免费体验的在线服务托管平台 |
