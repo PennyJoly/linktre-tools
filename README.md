@@ -28,10 +28,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [ChatGPT Shortcut](https://www.linktre.cc/siteDetails/374) | 开源的简单易用的ChatGPT快捷指令，让生产力加倍！ |
-| [Riffusion](https://www.linktre.cc/siteDetails/375) | AI生成不同风格的音乐，免费开源 |
-| [Dexa AI](https://www.linktre.cc/siteDetails/376) | AI播客搜索工具 |
-| [Adot](https://www.linktre.cc/siteDetails/377) | 一个由AI驱动的 Web3 搜索引擎 |
+| [OpenAPI UI](https://www.linktre.cc/siteDetails/378) | 更简洁美观的OpenAPI接口文档工具！ |
+| [Tusk](https://www.linktre.cc/siteDetails/379) | AI编码助手，自动化解决代码问题 |
+| [Omages](https://www.linktre.cc/siteDetails/380) | 3D模型转换为64x64像素图像工具 |
+| [Railway](https://www.linktre.cc/siteDetails/381) | 提供了免费体验的在线服务托管平台 |
 
 
 
@@ -77,6 +77,9 @@
 | [PS2 Filter AI Tool](https://www.linktre.cc/siteDetails/367) | 一键生成复古PS2风格图片 |
 | [WebLens](https://www.linktre.cc/siteDetails/368) | 网站分析与A/B测试工具 |
 | [UserCue](https://www.linktre.cc/siteDetails/369) | ai帮助分析你的用户行为，提升转化率 |
+| [Riffusion](https://www.linktre.cc/siteDetails/375) | AI生成不同风格的音乐，免费开源 |
+| [Dexa AI](https://www.linktre.cc/siteDetails/376) | AI播客搜索工具 |
+| [Adot](https://www.linktre.cc/siteDetails/377) | 一个由AI驱动的 Web3 搜索引擎 |
 
 
 ## 国内热门AI产品
@@ -236,6 +239,7 @@
 | [Shiro](https://www.linktre.cc/siteDetails/353) | 一个极简主义的开源个人网站blog，纸的纯净和雪的清新。 |
 | [postmark templates](https://www.linktre.cc/siteDetails/358) | 一款电子邮件模板编辑工具 |
 | [ProxyXAI](https://www.linktre.cc/siteDetails/337) | 一款创新驱动力 为人工智能行业的先驱者提供坚实的基础支持 |
+| [ChatGPT Shortcut](https://www.linktre.cc/siteDetails/374) | 开源的简单易用的ChatGPT快捷指令，让生产力加倍！ |
 
 
 
