@@ -28,10 +28,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [OpenAPI UI](https://www.linktre.cc/siteDetails/378) | 更简洁美观的OpenAPI开源接口文档工具 |
-| [Tusk](https://www.linktre.cc/siteDetails/379) | AI编码助手，自动化解决代码问题 |
-| [Omages](https://www.linktre.cc/siteDetails/380) | 3D模型转换为64x64像素图像工具 |
-| [Railway](https://www.linktre.cc/siteDetails/381) | 提供了免费体验的在线服务托管平台 |
+| [Easy-RAG](https://www.linktre.cc/siteDetails/382) | 一个适合学习、自用的开源Rag扩展 |
+| [TikTok Voice Generator](https://www.linktre.cc/siteDetails/383) | 生成各种有趣的TikTok AI语音 |
+| [PH今日热榜](https://www.linktre.cc/siteDetails/384) | 每日更新Product Hunt热门产品榜单 |
+| [AITDK AI落地页生成器](https://www.linktre.cc/siteDetails/385) | AI驱动的高效落地页创建工具 |
 
 
 
@@ -80,6 +80,8 @@
 | [Riffusion](https://www.linktre.cc/siteDetails/375) | AI生成不同风格的音乐，免费开源 |
 | [Dexa AI](https://www.linktre.cc/siteDetails/376) | AI播客搜索工具 |
 | [Adot](https://www.linktre.cc/siteDetails/377) | 一个由AI驱动的 Web3 搜索引擎 |
+| [Tusk](https://www.linktre.cc/siteDetails/379) | AI编码助手，自动化解决代码问题 |
+| [Omages](https://www.linktre.cc/siteDetails/380) | 3D模型转换为64x64像素图像工具 |
 
 
 ## 国内热门AI产品
@@ -120,6 +122,7 @@
 | [Cloudflare Pages](https://www.linktre.cc/siteDetails/272) | 通过Git集成、发布项目，支持全栈应用 |
 | [Vercel](https://www.linktre.cc/siteDetails/273) | 穷鬼必备，静态网站和服务器端渲染网站出海托管第一选择！ |
 | [Github Pages](https://www.linktre.cc/siteDetails/274) | 直接从GitHub存储库托管，您仅需编辑和推送代码，您的更改即可快速上线 |
+| [Railway](https://www.linktre.cc/siteDetails/381) | 提供了免费体验的在线服务托管平台 |
 
 
 ## 独立开发出海--图标库
@@ -240,6 +243,7 @@
 | [postmark templates](https://www.linktre.cc/siteDetails/358) | 一款电子邮件模板编辑工具 |
 | [ProxyXAI](https://www.linktre.cc/siteDetails/337) | 一款创新驱动力 为人工智能行业的先驱者提供坚实的基础支持 |
 | [ChatGPT Shortcut](https://www.linktre.cc/siteDetails/374) | 开源的简单易用的ChatGPT快捷指令，让生产力加倍！ |
+| [OpenAPI UI](https://www.linktre.cc/siteDetails/378) | 更简洁美观的OpenAPI开源接口文档工具 |
 
 
 
