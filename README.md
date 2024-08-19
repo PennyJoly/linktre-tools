@@ -18,11 +18,12 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [CheapGpt中转api](https://linktre.cc/siteDetails/324) | CheapGpt中转api是一个全网最低的openai、Azure GPT3.5-4.0语言对话模型中转api，目前最低低至0.5RMB/刀 |
+| [CheapGpt发卡](https://linktre.cc/siteDetails/325) | CheapGpt对应的专属发卡网站，最低0.5RMB/刀openai、Azure的token额度 |
 | [节点链接-短链接制作-你的无风险引流营销黑科技（基础免费）](https://links.bnyer.cn) | 节点链接是一个基础免费支持短链接生成、全平台链接一键跳转微信引流工具 |
 | [节点导航站(开源版本)](https://github.com/PennyJoly/linktre.cc) | 节点导航站开源版本具备完整的前后台且模块化友好支持SEO的导航站点 |
 | [AI Tools工具箱-你的人工智能小助手（基础免费）](https://www.think-php.xyz) | 新手博主人工智能GPT4高级媒体创作工具 |
-| [CheapGpt中转api](https://linktre.cc/siteDetails/324) | CheapGpt中转api是一个全网最低的openai、Azure GPT3.5-4.0语言对话模型中转api，目前最低低至0.5RMB/刀 |
-| [CheapGpt发卡](https://linktre.cc/siteDetails/325) | CheapGpt对应的专属发卡网站，最低0.5RMB/刀openai、Azure的token额度 |
+
 
 ## 今日更新
 
