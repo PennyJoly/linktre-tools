@@ -28,10 +28,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [Easy-RAG](https://www.linktre.cc/siteDetails/382) | 一个适合学习、自用的开源Rag扩展 |
-| [TikTok Voice Generator](https://www.linktre.cc/siteDetails/383) | 生成各种有趣的TikTok AI语音 |
-| [PH今日热榜](https://www.linktre.cc/siteDetails/384) | 每日更新Product Hunt热门产品榜单 |
-| [AITDK AI落地页生成器](https://www.linktre.cc/siteDetails/385) | AI驱动的高效落地页创建工具 |
+| [VanceAI](https://www.linktre.cc/siteDetails/386) | AI照片增强和编辑工具提供商 |
+| [YouDub-webui](https://www.linktre.cc/siteDetails/387) | 优质视频中文化工具 |
+| [Surfer-Data](https://www.linktre.cc/siteDetails/388) | 全球首款个人数据导出器 |
+| [Struct2AI](https://www.linktre.cc/siteDetails/389) | 智能捕捉项目结构，提升AI交互效率 |
 
 
 
@@ -82,6 +82,9 @@
 | [Adot](https://www.linktre.cc/siteDetails/377) | 一个由AI驱动的 Web3 搜索引擎 |
 | [Tusk](https://www.linktre.cc/siteDetails/379) | AI编码助手，自动化解决代码问题 |
 | [Omages](https://www.linktre.cc/siteDetails/380) | 3D模型转换为64x64像素图像工具 |
+| [TikTok Voice Generator](https://www.linktre.cc/siteDetails/383) | 生成各种有趣的TikTok AI语音 |
+| [PH今日热榜](https://www.linktre.cc/siteDetails/384) | 每日更新Product Hunt热门产品榜单 |
+| [AITDK AI落地页生成器](https://www.linktre.cc/siteDetails/385) | AI驱动的高效落地页创建工具 |
 
 
 ## 国内热门AI产品
@@ -244,6 +247,7 @@
 | [ProxyXAI](https://www.linktre.cc/siteDetails/337) | 一款创新驱动力 为人工智能行业的先驱者提供坚实的基础支持 |
 | [ChatGPT Shortcut](https://www.linktre.cc/siteDetails/374) | 开源的简单易用的ChatGPT快捷指令，让生产力加倍！ |
 | [OpenAPI UI](https://www.linktre.cc/siteDetails/378) | 更简洁美观的OpenAPI开源接口文档工具 |
+| [Easy-RAG](https://www.linktre.cc/siteDetails/382) | 一个适合学习、自用的开源Rag扩展 |
 
 
 
