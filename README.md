@@ -10,7 +10,7 @@
 各位老板你们好，近期咱们这边上新一款产品，不知道你们平常工作生活中，会不会用到chatgpt4.0，我们即将上新一个openai服务中转站，为了回馈各位老板，该产品价格力求做到全网最低， 最大能达到0.01人民币兑换100美元token的量，支持openai旗下所有产品。群每增加20人，我发放一个gpt4.0的token出来，感兴趣的老板可以扫描二维码进群了解详情。
 2群满了的可以添加三群或者私人微信进群，备注:cheapGpt
 <img src="https://img.bnyer.cn/site/wechat.jpg" alt="img" width="400">
-<img src="https://img.bnyer.cn/site/3qun.jpg" alt="img" width="400">
+<img src="https://img.bnyer.cn/site/3qu1n.jpg" alt="img" width="400">
 
 
 
