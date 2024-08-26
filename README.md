@@ -8,8 +8,8 @@
 喜欢的话欢迎踊跃✨✨STAR✨✨
 
 各位老板你们好，近期咱们这边上新一款产品，不知道你们平常工作生活中，会不会用到chatgpt4.0，我们即将上新一个openai服务中转站，为了回馈各位老板，该产品价格力求做到全网最低， 最大能达到0.01人民币兑换100美元token的量，支持openai旗下所有产品。群每增加20人，我发放一个gpt4.0的token出来，感兴趣的老板可以扫描二维码进群了解详情。
-2群满了的可以添加三群或者私人微信进群，备注:cheapGpt
-<img src="https://img.bnyer.cn/site/wechat.jpg" alt="img" width="400">
+2群满了的可以添加三群。
+
 <img src="https://img.bnyer.cn/site/3qun.jpg" alt="img" width="400">
 
 
@@ -30,10 +30,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [AIPoster](https://www.linktre.cc/siteDetails/394) | 开源3D文字海报生成器 |
-| [奇异字体生成器](https://www.linktre.cc/siteDetails/395) | 在线社媒字体生成器 |
-| [tiktoken](https://www.linktre.cc/siteDetails/396) | openai开源token消耗统计组件 |
-| [GitBase](https://www.linktre.cc/siteDetails/397) | 基于Github的开源CMS内容管理系统 |
+| [fluxaipro.art](https://www.linktre.cc/siteDetails/398) | Flux AI 高级图像生成器 |
+| [snapany](https://www.linktre.cc/siteDetails/399) | 在线免费、简单. 从1000+平台保存视频和图片 |
+| [BackPack](https://www.linktre.cc/siteDetails/400) | 将图片和视频转化为歌曲的创意ai工具 |
+| [OpenDevin](https://www.linktre.cc/siteDetails/401) | 开源的AI代码生成器 |
 
 
 
@@ -118,6 +118,8 @@
 | [AITDK AI落地页生成器](https://www.linktre.cc/siteDetails/385) | AI驱动的高效落地页创建工具 |
 | [YouDub-webui](https://www.linktre.cc/siteDetails/387) | 优质视频中文化工具 |
 | [Fluximg](https://www.linktre.cc/siteDetails/390) | 一键免费使用 Flux 生成图片 |
+| [AIPoster](https://www.linktre.cc/siteDetails/394) | 开源3D文字海报生成器 |
+| [奇异字体生成器](https://www.linktre.cc/siteDetails/395) | 在线社媒字体生成器 |
 
 
 ## 独立开发出海--支付工具
@@ -259,6 +261,8 @@
 | [ChatGPT Shortcut](https://www.linktre.cc/siteDetails/374) | 开源的简单易用的ChatGPT快捷指令，让生产力加倍！ |
 | [OpenAPI UI](https://www.linktre.cc/siteDetails/378) | 更简洁美观的OpenAPI开源接口文档工具 |
 | [Easy-RAG](https://www.linktre.cc/siteDetails/382) | 一个适合学习、自用的开源Rag扩展 |
+| [tiktoken](https://www.linktre.cc/siteDetails/396) | openai开源token消耗统计组件 |
+| [GitBase](https://www.linktre.cc/siteDetails/397) | 基于Github的开源CMS内容管理系统 |
 
 
 
