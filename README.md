@@ -257,7 +257,6 @@
 | [MinerU](https://www.linktre.cc/siteDetails/349) | MinerU 是一款一站式、开源、高质量的数据提取工具。 |
 | [Shiro](https://www.linktre.cc/siteDetails/353) | 一个极简主义的开源个人网站blog，纸的纯净和雪的清新。 |
 | [postmark templates](https://www.linktre.cc/siteDetails/358) | 一款电子邮件模板编辑工具 |
-| [ProxyXAI](https://www.linktre.cc/siteDetails/337) | 一款创新驱动力 为人工智能行业的先驱者提供坚实的基础支持 |
 | [ChatGPT Shortcut](https://www.linktre.cc/siteDetails/374) | 开源的简单易用的ChatGPT快捷指令，让生产力加倍！ |
 | [OpenAPI UI](https://www.linktre.cc/siteDetails/378) | 更简洁美观的OpenAPI开源接口文档工具 |
 | [Easy-RAG](https://www.linktre.cc/siteDetails/382) | 一个适合学习、自用的开源Rag扩展 |
