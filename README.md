@@ -10,7 +10,7 @@
 各位老板你们好，近期咱们这边上新一款产品，不知道你们平常工作生活中，会不会用到chatgpt4.0，我们即将上新一个openai服务中转站，为了回馈各位老板，该产品价格力求做到全网最低， 最大能达到0.01人民币兑换100美元token的量，支持openai旗下所有产品。群每增加20人，我发放一个gpt4.0的token出来，感兴趣的老板可以扫描二维码进群了解详情。
 2群满了的可以添加三群。
 
-<img src="https://img.bnyer.cn/site/3qun-1.jpg" alt="img" width="400">
+<img src="https://img.bnyer.cn/site/3qun-2.jpg" alt="img" width="400">
 
 
 
@@ -30,10 +30,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [toolsapp](https://www.linktre.cc/siteDetails/406) | 免费收录推广AI目录和创业产品项目 |
-| [javaqahub](https://www.linktre.cc/siteDetails/407) | 免费的java面试手册宝典 |
-| [酒店协议代码大全](https://www.linktre.cc/siteDetails/408) | 低价高级酒店折扣代码大全 |
-| [TikTok收益计算器](https://www.linktre.cc/siteDetails/409) | 免费tiktok收益计算器 |
+| [glances.ai](https://www.linktre.cc/siteDetails/410) | AI驱动社媒监听工具，发掘潜在客户和增长机会 |
+| [tinyeraser](https://www.linktre.cc/siteDetails/411) | 免费批量一键换背景工具 |
+| [explodingtopics](https://www.linktre.cc/siteDetails/412) | 根据关键词追踪话题热度趋势的工具 |
+| [coolify](https://www.linktre.cc/siteDetails/413) | Heroku/Netlify/Vercel开源免费替代品 |
 
 
 
@@ -194,6 +194,7 @@
 | [Hacker News](https://www.linktre.cc/siteDetails/290) | 一个新闻聚合网站，允许提交满足用户求知欲的各种类型的新闻，主要以英语内容为主。 |
 | [Indie Hackers](https://www.linktre.cc/siteDetails/291) | 一个社区平台，它连接开发者们共同分享他们的公司和副业背后的策略和收入数据。 |
 | [1000UserGuide](https://www.linktre.cc/siteDetails/314) | 为开发者有效地推广产品，接触目标受众，并找到你的第一批1000个用户 |
+| [toolsapp](https://www.linktre.cc/siteDetails/406) | 免费收录推广AI目录和创业产品项目 |
 
 
 ## 独立开发出海--数据库
@@ -300,6 +301,9 @@
 | [Tally](https://www.linktre.cc/siteDetails/360) | Tally 是一个用户友好的在线表单构建平台 |
 | [ShotEasy](https://www.linktre.cc/siteDetails/372) | 轻量级免费在线开源屏幕截图工具 |
 | [snapany](https://www.linktre.cc/siteDetails/399) | 在线免费、简单. 从1000+平台保存视频和图片 |
+| [javaqahub](https://www.linktre.cc/siteDetails/407) | 免费的java面试手册宝典 |
+| [酒店协议代码大全](https://www.linktre.cc/siteDetails/408) | 低价高级酒店折扣代码大全 |
+| [TikTok收益计算器](https://www.linktre.cc/siteDetails/409) | 免费tiktok收益计算器 |
 
 
 
@@ -321,9 +325,7 @@
 | [来客乐](https://www.linktre.cc/siteDetails/357) | 一体化运输解决方案，低价PB / USPS 账号服务 |
 | [AlphaRank SEO](https://www.linktre.cc/siteDetails/370) | Shopify店铺设计的AI SEO优化工具 |
 
-## Buy me coffee
-<img src="https://img.bnyer.cn/site/apipay.jpg" alt="img" width="400">
-<img src="https://img.bnyer.cn/site/wechatpay.jpg" alt="img" width="400">
+
 
 
 
