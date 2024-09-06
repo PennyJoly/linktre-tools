@@ -29,10 +29,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [glances.ai](https://www.linktre.cc/siteDetails/410) | AI驱动社媒监听工具，发掘潜在客户和增长机会 |
-| [tinyeraser](https://www.linktre.cc/siteDetails/411) | 免费批量一键换背景工具 |
-| [explodingtopics](https://www.linktre.cc/siteDetails/412) | 根据关键词追踪话题热度趋势的工具 |
-| [coolify](https://www.linktre.cc/siteDetails/413) | Heroku/Netlify/Vercel开源免费替代品 |
+| [出海网站经验总结](https://www.linktre.cc/siteDetails/414) | 从搭建到上线的出海手册全流程指南 |
+| [吉光卡片](https://www.linktre.cc/siteDetails/415) | 社媒运营卡片化制作工具 |
+| [kkTerminal](https://www.linktre.cc/siteDetails/416) | 开源ssh远程连接服务器web终端 |
+| [言笔AI写作](https://www.linktre.cc/siteDetails/417) | ai智能写作工具 |
 
 
 
@@ -121,6 +121,8 @@
 | [AIPoster](https://www.linktre.cc/siteDetails/394) | 开源3D文字海报生成器 |
 | [奇异字体生成器](https://www.linktre.cc/siteDetails/395) | 在线社媒字体生成器 |
 | [fluxaipro.art](https://www.linktre.cc/siteDetails/398) | Flux AI 高级图像生成器 |
+| [glances.ai](https://www.linktre.cc/siteDetails/410) | AI驱动社媒监听工具，发掘潜在客户和增长机会 |
+| [tinyeraser](https://www.linktre.cc/siteDetails/411) | 免费批量一键换背景工具 |
 
 
 ## 独立开发出海--支付工具
@@ -269,6 +271,7 @@
 | [tiktoken](https://www.linktre.cc/siteDetails/396) | openai开源token消耗统计组件 |
 | [GitBase](https://www.linktre.cc/siteDetails/397) | 基于Github的开源CMS内容管理系统 |
 | [OpenDevin](https://www.linktre.cc/siteDetails/401) | 开源的AI代码生成器 |
+| [coolify](https://www.linktre.cc/siteDetails/413) | Heroku/Netlify/Vercel开源免费替代品 |
 
 
 
@@ -282,6 +285,7 @@
 | [巨量算数](https://www.linktre.cc/siteDetails/251) | 字节跳动推出的抖音、西瓜视频等热点指数分析工具 |
 | [新红](https://www.linktre.cc/siteDetails/252) | 新榜有数旗下小红书数据分析工具 |
 | [wideo](https://www.linktre.cc/siteDetails/264) | 广告创意视频制作工具 |
+| [explodingtopics](https://www.linktre.cc/siteDetails/412) | 根据关键词追踪话题热度趋势的工具 |
 
 
 ## 在线工具
