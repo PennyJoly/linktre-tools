@@ -32,7 +32,7 @@
 | [fastmoss](https://www.linktre.cc/siteDetails/418) | tiktok数据分析工具 |
 | [adsmoss](https://www.linktre.cc/siteDetails/419) | TikTok广告监控工具 |
 | [magic-html](https://www.linktre.cc/siteDetails/420) | 通用HTML数据提取器 |
-| [Perplexica](https://www.linktre.cc/siteDetails/421) | 开源的人工智能搜索工具,搭配本仓库的t节点推荐【CheapGpt】更好用哟！ |
+| [Perplexica](https://www.linktre.cc/siteDetails/421) | 开源的人工智能搜索工具,搭配本仓库的节点推荐【CheapGpt】更好用哟！ |
 
 
 
