@@ -29,10 +29,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [出海网站经验总结](https://www.linktre.cc/siteDetails/414) | 从搭建到上线的出海手册全流程指南 |
-| [吉光卡片](https://www.linktre.cc/siteDetails/415) | 社媒运营卡片化制作工具 |
-| [kkTerminal](https://www.linktre.cc/siteDetails/416) | 开源ssh远程连接服务器web终端 |
-| [言笔AI写作](https://www.linktre.cc/siteDetails/417) | ai智能写作工具 |
+| [fastmoss](https://www.linktre.cc/siteDetails/418) | tiktok数据分析工具 |
+| [adsmoss](https://www.linktre.cc/siteDetails/419) | TikTok广告监控工具 |
+| [magic-html](https://www.linktre.cc/siteDetails/420) | 通用HTML数据提取器 |
+| [Perplexica](https://www.linktre.cc/siteDetails/421) | 开源的人工智能搜索工具 |
 
 
 
@@ -123,6 +123,7 @@
 | [fluxaipro.art](https://www.linktre.cc/siteDetails/398) | Flux AI 高级图像生成器 |
 | [glances.ai](https://www.linktre.cc/siteDetails/410) | AI驱动社媒监听工具，发掘潜在客户和增长机会 |
 | [tinyeraser](https://www.linktre.cc/siteDetails/411) | 免费批量一键换背景工具 |
+| [言笔AI写作](https://www.linktre.cc/siteDetails/417) | ai智能写作工具 |
 
 
 ## 独立开发出海--支付工具
@@ -183,6 +184,7 @@
 | [SEO.box](https://www.linktre.cc/siteDetails/403) | 在线SEO向导网站，协助提升你的SEO策略 |
 | [流沙SEO](https://www.linktre.cc/siteDetails/405) | 免费且高质量出海、SEO优化博客 |
 | [Sitemap Generator](https://www.linktre.cc/siteDetails/402) | 专注于网站地图生成与数据可视化分析工具 |
+| [出海网站经验总结](https://www.linktre.cc/siteDetails/414) | 从搭建到上线的出海手册全流程指南 |
 
 
 
@@ -221,6 +223,7 @@
 | --- | --- |
 | [Clerk](https://www.linktre.cc/siteDetails/297) | 免费用户 5000 MAU |
 | [Logto](https://www.linktre.cc/siteDetails/298) | 登录鉴权，有云端版和开源的私有化部署版 |
+
 
 ## 独立开发出海--邮件服务
 
@@ -272,6 +275,7 @@
 | [GitBase](https://www.linktre.cc/siteDetails/397) | 基于Github的开源CMS内容管理系统 |
 | [OpenDevin](https://www.linktre.cc/siteDetails/401) | 开源的AI代码生成器 |
 | [coolify](https://www.linktre.cc/siteDetails/413) | Heroku/Netlify/Vercel开源免费替代品 |
+| [kkTerminal](https://www.linktre.cc/siteDetails/416) | 开源ssh远程连接服务器web终端 |
 
 
 
@@ -286,6 +290,7 @@
 | [新红](https://www.linktre.cc/siteDetails/252) | 新榜有数旗下小红书数据分析工具 |
 | [wideo](https://www.linktre.cc/siteDetails/264) | 广告创意视频制作工具 |
 | [explodingtopics](https://www.linktre.cc/siteDetails/412) | 根据关键词追踪话题热度趋势的工具 |
+| [吉光卡片](https://www.linktre.cc/siteDetails/415) | 社媒运营卡片化制作工具 |
 
 
 ## 在线工具
