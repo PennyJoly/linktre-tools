@@ -10,7 +10,7 @@
 各位老板你们好，近期咱们这边上新一款产品，不知道你们平常工作生活中，会不会用到chatgpt4.0、claude3.5，我们即将上新一个openai服务中转站，为了回馈各位老板，该产品价格力求做到全网最低， 最大能达到0.01人民币兑换100美元token的量，支持openai旗下所有产品。群每增加20人，我发放一个gpt4.0的token出来，感兴趣的老板可以扫描二维码进群了解详情。
 2群满了的可以添加三群。
 
-<img src="https://img.bnyer.cn/site/3qun-3.jpg" alt="img" width="400">
+<img src="https://img.bnyer.cn/site/3qun-4.jpg" alt="img" width="400">
 
 
 
@@ -29,11 +29,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [图片分割器](https://www.linktre.cc/siteDetails/426) | 免费在线图片分割工具 |
-| [iBackupExtractor](https://www.linktre.cc/siteDetails/427) | iOS 备份导出工具 |
-| [男女职工法定退休年龄查询](https://www.linktre.cc/siteDetails/428) | 男女职工法定退休年龄查询工具 |
-| [Minecraft圆形生成器](https://www.linktre.cc/siteDetails/429) | 在线Minecraft圆形生成 |
-| [法定退休& 养老金资格计算器](https://www.linktre.cc/siteDetails/430) | 在线计算法定退休年龄及养老金 |
+| [房贷利率调整计算器](https://www.linktre.cc/siteDetails/431) | 轻松计算月供变化 |
+| [秒达工具箱](https://www.linktre.cc/siteDetails/432) | 开源中文工具箱 |
+| [Fofa-hack](https://www.linktre.cc/siteDetails/433) | 开源fofa爬虫工具 |
+
 
 
 
@@ -282,6 +281,7 @@
 | [Tinymind](https://www.linktre.cc/siteDetails/423) | 将GitHub 变成博客和备忘录的工具 |
 | [ProxyCat](https://www.linktre.cc/siteDetails/424) | 代理池中间件 |
 | [readecho-web](https://www.linktre.cc/siteDetails/425) | 微信读书笔记导出工具 |
+| [iBackupExtractor](https://www.linktre.cc/siteDetails/427) | iOS 备份导出工具 |
 
 
 
@@ -320,6 +320,10 @@
 | [酒店协议代码大全](https://www.linktre.cc/siteDetails/408) | 低价高级酒店折扣代码大全 |
 | [TikTok收益计算器](https://www.linktre.cc/siteDetails/409) | 免费tiktok收益计算器 |
 | [退休倒计时计算器](https://www.linktre.cc/siteDetails/422) | 在线计算改革后的退休年龄工具 |
+| [图片分割器](https://www.linktre.cc/siteDetails/426) | 免费在线图片分割工具 |
+| [男女职工法定退休年龄查询](https://www.linktre.cc/siteDetails/428) | 男女职工法定退休年龄查询工具 |
+| [Minecraft圆形生成器](https://www.linktre.cc/siteDetails/429) | 在线Minecraft圆形生成 |
+| [法定退休& 养老金资格计算器](https://www.linktre.cc/siteDetails/430) | 在线计算法定退休年龄及养老金 |
 
 
 
