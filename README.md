@@ -10,7 +10,7 @@
 各位老板你们好，近期咱们这边上新一款产品，不知道你们平常工作生活中，会不会用到chatgpt4.0、claude3.5，我们即将上新一个openai服务中转站，为了回馈各位老板，该产品价格力求做到全网最低， 最大能达到0.01人民币兑换100美元token的量，支持openai旗下所有产品。群每增加20人，我发放一个gpt4.0的token出来，感兴趣的老板可以扫描二维码进群了解详情。
 2群满了的可以添加三群。
 
-<img src="https://img.bnyer.cn/site/3qun-4.jpg" alt="img" width="400">
+<img src="https://img.bnyer.cn/site/3qun-5.jpg" alt="img" width="400">
 
 
 
@@ -29,9 +29,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [房贷利率调整计算器](https://www.linktre.cc/siteDetails/431) | 轻松计算月供变化 |
-| [秒达工具箱](https://www.linktre.cc/siteDetails/432) | 开源中文工具箱 |
-| [Fofa-hack](https://www.linktre.cc/siteDetails/433) | 开源fofa爬虫工具 |
+| [Buildpad](https://www.linktre.cc/siteDetails/434) | 构建人们真正想要的产品 |
+| [Realtime API](https://www.linktre.cc/siteDetails/435) | openai的低延迟的实时语音交互API |
+| [Saylo AI](https://www.linktre.cc/siteDetails/436) | 探索无限的AI角色扮演游戏 |
+| ["说人话"的开源许可证选择器](https://www.linktre.cc/siteDetails/437) | 简单明了的说人话的开源许可证选择器 |
 
 
 
@@ -282,6 +283,8 @@
 | [ProxyCat](https://www.linktre.cc/siteDetails/424) | 代理池中间件 |
 | [readecho-web](https://www.linktre.cc/siteDetails/425) | 微信读书笔记导出工具 |
 | [iBackupExtractor](https://www.linktre.cc/siteDetails/427) | iOS 备份导出工具 |
+| [秒达工具箱](https://www.linktre.cc/siteDetails/432) | 开源中文工具箱 |
+| [Fofa-hack](https://www.linktre.cc/siteDetails/433) | 开源fofa爬虫工具 |
 
 
 
@@ -324,6 +327,7 @@
 | [男女职工法定退休年龄查询](https://www.linktre.cc/siteDetails/428) | 男女职工法定退休年龄查询工具 |
 | [Minecraft圆形生成器](https://www.linktre.cc/siteDetails/429) | 在线Minecraft圆形生成 |
 | [法定退休& 养老金资格计算器](https://www.linktre.cc/siteDetails/430) | 在线计算法定退休年龄及养老金 |
+| [房贷利率调整计算器](https://www.linktre.cc/siteDetails/431) | 轻松计算月供变化 |
 
 
 
