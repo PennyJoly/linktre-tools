@@ -29,10 +29,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [Buildpad](https://www.linktre.cc/siteDetails/434) | 构建人们真正想要的产品 |
-| [Realtime API](https://www.linktre.cc/siteDetails/435) | openai的低延迟的实时语音交互API |
-| [Saylo AI](https://www.linktre.cc/siteDetails/436) | 探索无限的AI角色扮演游戏 |
-| ["说人话"的开源许可证选择器](https://www.linktre.cc/siteDetails/437) | 简单明了的说人话的开源许可证选择器 |
+| [投资策略模拟器](https://www.linktre.cc/siteDetails/438) | 协助用户模拟投资分析 |
+| [Glider代理池](https://www.linktre.cc/siteDetails/439) | 简易爬虫中转代理 |
+| [aibasket](https://www.linktre.cc/siteDetails/440) | ai工具导航站 |
+| [so0000软件目录](https://www.linktre.cc/siteDetails/441) | 精品Windows免费软件下载 |
 
 
 
@@ -92,6 +92,10 @@
 | [Let Me Know When](https://www.linktre.cc/siteDetails/392) | AI驱动的网站监控与竞争对手分析工具 |
 | [Linkter](https://www.linktre.cc/siteDetails/393) | AI辅助内部链接构建工具 |
 | [BackPack](https://www.linktre.cc/siteDetails/400) | 将图片和视频转化为歌曲的创意ai工具 |
+| [Buildpad](https://www.linktre.cc/siteDetails/434) | 构建人们真正想要的产品 |
+| [Realtime API](https://www.linktre.cc/siteDetails/435) | openai的低延迟的实时语音交互API |
+| [Saylo AI](https://www.linktre.cc/siteDetails/436) | 探索无限的AI角色扮演游戏 |
+
 
 
 
@@ -285,6 +289,7 @@
 | [iBackupExtractor](https://www.linktre.cc/siteDetails/427) | iOS 备份导出工具 |
 | [秒达工具箱](https://www.linktre.cc/siteDetails/432) | 开源中文工具箱 |
 | [Fofa-hack](https://www.linktre.cc/siteDetails/433) | 开源fofa爬虫工具 |
+| ["说人话"的开源许可证选择器](https://www.linktre.cc/siteDetails/437) | 简单明了的说人话的开源许可证选择器 |
 
 
 
