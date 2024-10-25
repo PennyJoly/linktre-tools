@@ -29,10 +29,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [投资策略模拟器](https://www.linktre.cc/siteDetails/438) | 协助用户模拟投资分析 |
-| [Glider代理池](https://www.linktre.cc/siteDetails/439) | 简易爬虫中转代理 |
-| [aibasket](https://www.linktre.cc/siteDetails/440) | ai工具导航站 |
-| [so0000软件目录](https://www.linktre.cc/siteDetails/441) | 精品Windows免费软件下载 |
+| [CheapGpt](https://www.linktre.cc/siteDetails/442) | 企业级AI模型Api |
+| [Top AI Tools](https://www.linktre.cc/siteDetails/443) | 好用的 AI 工具合集 |
+| [一个朋友](https://www.linktre.cc/siteDetails/444) | 每日免费机场推荐 |
+| [Gen AI Prism Tools Directory](https://www.linktre.cc/siteDetails/445) | 免费Ai工具目录 |
 
 
 
@@ -203,6 +203,8 @@
 | [Indie Hackers](https://www.linktre.cc/siteDetails/291) | 一个社区平台，它连接开发者们共同分享他们的公司和副业背后的策略和收入数据。 |
 | [1000UserGuide](https://www.linktre.cc/siteDetails/314) | 为开发者有效地推广产品，接触目标受众，并找到你的第一批1000个用户 |
 | [toolsapp](https://www.linktre.cc/siteDetails/406) | 免费收录推广AI目录和创业产品项目 |
+| [aibasket](https://www.linktre.cc/siteDetails/440) | ai工具导航站 |
+| [so0000软件目录](https://www.linktre.cc/siteDetails/441) | 精品Windows免费软件下载 |
 
 
 ## 独立开发出海--数据库
@@ -290,6 +292,7 @@
 | [秒达工具箱](https://www.linktre.cc/siteDetails/432) | 开源中文工具箱 |
 | [Fofa-hack](https://www.linktre.cc/siteDetails/433) | 开源fofa爬虫工具 |
 | ["说人话"的开源许可证选择器](https://www.linktre.cc/siteDetails/437) | 简单明了的说人话的开源许可证选择器 |
+| [Glider代理池](https://www.linktre.cc/siteDetails/439) | 简易爬虫中转代理 |
 
 
 
@@ -333,6 +336,7 @@
 | [Minecraft圆形生成器](https://www.linktre.cc/siteDetails/429) | 在线Minecraft圆形生成 |
 | [法定退休& 养老金资格计算器](https://www.linktre.cc/siteDetails/430) | 在线计算法定退休年龄及养老金 |
 | [房贷利率调整计算器](https://www.linktre.cc/siteDetails/431) | 轻松计算月供变化 |
+| [投资策略模拟器](https://www.linktre.cc/siteDetails/438) | 协助用户模拟投资分析 |
 
 
 
