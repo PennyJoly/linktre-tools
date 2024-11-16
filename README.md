@@ -30,9 +30,14 @@
 | 站点 | 简介 |
 | --- | --- |
 | [CheapGpt](https://www.linktre.cc/siteDetails/442) | 企业级AI模型Api |
-| [Top AI Tools](https://www.linktre.cc/siteDetails/443) | 好用的 AI 工具合集 |
-| [一个朋友](https://www.linktre.cc/siteDetails/444) | 每日免费机场推荐 |
-| [Gen AI Prism Tools Directory](https://www.linktre.cc/siteDetails/445) | 免费Ai工具目录 |
+| [Sprunki Incredibox](https://www.linktre.cc/siteDetails/446) | 在线音乐小游戏 |
+| [Google Trends Quick Open](https://www.linktre.cc/siteDetails/447) | Google Trends工具 |
+| [原力推-内容付费平台](https://www.linktre.cc/siteDetails/448) | 为创作者带来更多收入 |
+| [Flux 1.1 Pro AI](https://www.linktre.cc/siteDetails/449) | 在线生成Flux高质量图片 |
+| [VMagic AI](https://www.linktre.cc/siteDetails/450) | AI惊讶视频创作工具 |
+
+
+
 
 
 
@@ -129,6 +134,8 @@
 | [glances.ai](https://www.linktre.cc/siteDetails/410) | AI驱动社媒监听工具，发掘潜在客户和增长机会 |
 | [tinyeraser](https://www.linktre.cc/siteDetails/411) | 免费批量一键换背景工具 |
 | [言笔AI写作](https://www.linktre.cc/siteDetails/417) | ai智能写作工具 |
+| [Top AI Tools](https://www.linktre.cc/siteDetails/443) | 好用的 AI 工具合集 |
+| [Gen AI Prism Tools Directory](https://www.linktre.cc/siteDetails/445) | 免费Ai工具目录 |
 
 
 ## 独立开发出海--支付工具
@@ -205,6 +212,7 @@
 | [toolsapp](https://www.linktre.cc/siteDetails/406) | 免费收录推广AI目录和创业产品项目 |
 | [aibasket](https://www.linktre.cc/siteDetails/440) | ai工具导航站 |
 | [so0000软件目录](https://www.linktre.cc/siteDetails/441) | 精品Windows免费软件下载 |
+| [一个朋友](https://www.linktre.cc/siteDetails/444) | 每日免费机场推荐 |
 
 
 ## 独立开发出海--数据库
