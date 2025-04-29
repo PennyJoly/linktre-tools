@@ -15,6 +15,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [NuxtPro](https://nuxtpro.com) | 基于Nuxt3的企业级SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用 |
 | [CheapGpt中转api](https://linktre.cc/siteDetails/324) | CheapGpt中转api是一个全网最低的Claude、openai、Azure GPT3.5-4.0语言对话模型中转api，目前最低低至0.5RMB/刀 |
 | [节点链接-短链接制作-你的无风险引流营销黑科技（基础免费）](https://links.bnyer.cn) | 节点链接是一个基础免费支持短链接生成、全平台链接一键跳转微信引流工具 |
 | [节点导航站(开源版本)](https://github.com/PennyJoly/linktre.cc) | 节点导航站开源版本具备完整的前后台且模块化友好支持SEO的导航站点 |
