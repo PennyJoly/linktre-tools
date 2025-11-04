@@ -371,7 +371,6 @@
 | [adsmoss](https://www.linktre.cc/siteDetails/419) | TikTok广告监控工具 |
 
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 
 
