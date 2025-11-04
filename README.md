@@ -15,11 +15,16 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [NuxtPro](https://nuxtpro.com) | 基于Nuxt3的企业级SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用 |
-| [CheapGpt中转api](https://linktre.cc/siteDetails/324) | CheapGpt中转api是一个全网最低的Claude、openai、Azure GPT3.5-4.0语言对话模型中转api，目前最低低至0.5RMB/刀 |
+| [NuxtPro](https://nuxtpro.com) | 基于Nuxt3的国内开发者友好的SaaS出海模板，预集成Stripe/Cream/bagelpay/paypal支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用 |
+| [NuxtDir](https://nuxtdir.com) | NuxtDir 发现最火爆热门的AI产品,让你的产品脱引而出,凭借高DR权重快速获取1000+用户，获取更多流量曝光！ |
+| [Remover.plus](https://remover.plus) | 免费remover.plus的Sora 2水印去除工具让您轻松清除Sora 2视频中的水印。无需应用或邀请 — 快速、精美的、高质量的结果，适用于希望分享高质量内容的创作者、营销人员和讲故事的人。 |
+| [FreeTempMail](https://mail.aitre.cc) |开源免费临时邮箱,获取临时邮箱地址，保护您的隐私。无需注册，即时生成，自动接收邮件。 |
+| [CheapGpt中转api](https://nuxtdir.com/zh-CN/sites/442) | CheapGpt中转api是一个全网最低的Claude、openai、Azure GPT3.5-4.0语言对话模型中转api，目前最低低至0.5RMB/刀 |
 | [节点链接-短链接制作-你的无风险引流营销黑科技（基础免费）](https://links.bnyer.cn) | 节点链接是一个基础免费支持短链接生成、全平台链接一键跳转微信引流工具 |
 | [节点导航站(开源版本)](https://github.com/PennyJoly/linktre.cc) | 节点导航站开源版本具备完整的前后台且模块化友好支持SEO的导航站点 |
-| [AI Tools工具箱-你的人工智能小助手（基础免费）](https://www.think-php.xyz) | 新手博主人工智能GPT4高级媒体创作工具 |
+| [NuxtPro开源版](https://github.com/PennyJoly/NuxtPro) | 基于Nuxt3的国内开发者友好的SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用 |
+
+
 
 
 ## 今日更新
