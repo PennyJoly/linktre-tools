@@ -31,6 +31,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [小马AI Hermes 中文增强包](https://useai.live/hermes/) | Hermes Agent 中文补丁与一键安装器，支持中文界面、飞书/Telegram 网关提示和配对审批文案 |
 | [CheapGpt](https://www.linktre.cc/siteDetails/442) | 企业级AI模型Api |
 | [Sprunki Incredibox](https://www.linktre.cc/siteDetails/446) | 在线音乐小游戏 |
 | [Google Trends Quick Open](https://www.linktre.cc/siteDetails/447) | Google Trends工具 |
@@ -369,7 +370,6 @@
 | [AlphaRank SEO](https://www.linktre.cc/siteDetails/370) | Shopify店铺设计的AI SEO优化工具 |
 | [fastmoss](https://www.linktre.cc/siteDetails/418) | tiktok数据分析工具 |
 | [adsmoss](https://www.linktre.cc/siteDetails/419) | TikTok广告监控工具 |
-
 
 
 
