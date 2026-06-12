@@ -68,6 +68,7 @@
 | [Smallppt](https://www.linktre.cc/siteDetails/336) | Smallppt：创建令人惊叹的 AI 演示文稿和思维导图工具 |
 | [Grok](https://www.linktre.cc/siteDetails/338) |马斯克旗下xAI推出的人工智能助手 |
 | [Notion AI](https://www.linktre.cc/siteDetails/339) | Notion推出的AI内容创作助手 |
+| [Remio](https://remio.ai/) | 本地优先 AI 记忆与知识库客户端，可解析文件、网页、录音、邮件、消息、图片和笔记，建立本地索引与向量，帮助用户和 agent 更快检索个人上下文，减少反复读文件和消耗 token 的成本 |
 | [adcopy](https://www.linktre.cc/siteDetails/342) | Meta Ads AI 是一种工具，旨在通过利用人工智能进行拆分测试、文案撰写和优化来增强 Meta 平台上的广告活动，确保更快地发布广告并提高效果 |
 | [Humanize AI Text](https://www.linktre.cc/siteDetails/343) | Humanize AI Text 是一款免费的在线工具，旨在使用先进的自然语言处理模型将文本转换为更加个性化、更具吸引力和更自然的风格。 |
 | [ChordChord](https://www.linktre.cc/siteDetails/344) |ChordChord：歌曲创作和音乐制作工具。我们重视您的隐私。我们使用 Cookie 来增强您的浏览体验、提供个性化广告或内容以及分析我们的流量。 |
