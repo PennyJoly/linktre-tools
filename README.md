@@ -137,6 +137,7 @@
 | [言笔AI写作](https://www.linktre.cc/siteDetails/417) | ai智能写作工具 |
 | [Top AI Tools](https://www.linktre.cc/siteDetails/443) | 好用的 AI 工具合集 |
 | [Gen AI Prism Tools Directory](https://www.linktre.cc/siteDetails/445) | 免费Ai工具目录 |
+| [闲鱼虚拟资料封面文案生成器](https://ronnie2025.github.io/xianyu-cover-copy-generator/) | 免费开源的闲鱼虚拟资料主图文案与 imagegen 提示词生成器，可生成主图卖点、详情图结构和上架后记账字段 |
 
 
 ## 独立开发出海--支付工具
