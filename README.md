@@ -19,7 +19,6 @@
 | [NuxtPro](https://nuxtpro.com) | 基于Nuxt3的国内开发者友好的SaaS出海模板，预集成Stripe/Cream/bagelpay/paypal支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用 |
 | [RepoWho](https://repowho.com) | 一个精选的开源目录，旨在将 GitHub 项目与其背后的开发者联系起来。 |
 | [NuxtDir](https://nuxtdir.com) | NuxtDir 发现最火爆热门的AI产品,让你的产品脱引而出,凭借高DR权重快速获取1000+用户，获取更多流量曝光！ |
-| [Remover.plus](https://remover.plus) | 免费remover.plus的Sora 2水印去除工具让您轻松清除Sora 2视频中的水印。无需应用或邀请 — 快速、精美的、高质量的结果，适用于希望分享高质量内容的创作者、营销人员和讲故事的人。 |
 | [FreeTempMail](https://mail.aitre.cc) |开源免费临时邮箱,获取临时邮箱地址，保护您的隐私。无需注册，即时生成，自动接收邮件。 |
 
 | [节点导航站(开源版本)](https://github.com/PennyJoly/linktre.cc) | 节点导航站开源版本具备完整的前后台且模块化友好支持SEO的导航站点 |
@@ -33,10 +32,7 @@
 | 站点 | 简介 |
 | --- | --- |
 | [Doc2X](https://doc2x.noedgeai.com) | AI 文档解析与翻译，可将 PDF、扫描件和图片转为 Word、Markdown、LaTeX，识别公式与表格；支持 PDF/Word 文档翻译，并提供 Zotero 插件及开发者 API |
-| [Google Trends Quick Open](https://www.linktre.cc/siteDetails/447) | Google Trends工具 |
-| [原力推-内容付费平台](https://www.linktre.cc/siteDetails/448) | 为创作者带来更多收入 |
-| [Flux 1.1 Pro AI](https://www.linktre.cc/siteDetails/449) | 在线生成Flux高质量图片 |
-| [VMagic AI](https://www.linktre.cc/siteDetails/450) | AI惊讶视频创作工具 |
+| [aitoolsradar](https://aitoolsradar.com/zh) | 支持十种语言的 AI 工具与模型目录，包含 Agent Skills、Prompt 图库、AI 行业资讯和 Newsletter。独立开发者可用来发现与比较产品，并查找可复用技能和提示词。 |
 
 
 
