@@ -34,6 +34,7 @@
 | [Doc2X](https://doc2x.noedgeai.com) | AI 文档解析与翻译，可将 PDF、扫描件和图片转为 Word、Markdown、LaTeX，识别公式与表格；支持 PDF/Word 文档翻译，并提供 Zotero 插件及开发者 API |
 | [aitoolsradar](https://aitoolsradar.com/zh) | 支持十种语言的 AI 工具与模型目录，包含 Agent Skills、Prompt 图库、AI 行业资讯和 Newsletter。独立开发者可用来发现与比较产品，并查找可复用技能和提示词。 |
 | [momoai](https://doc.momoai.asia/) | AI 信息差是 MaynorAI 的 AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流、Cloudflare 上站部署和会员深度文章。 |
+| [sparkpix-ai photo editor](https://sparkpix.ai) | SparkPix.ai is a free online AI photo editor. Main functions include unblur photos, upscale images to 4K, remove backgrounds, and transform photos into anime or art styles. Suitable for designers, photographers, and e-commerce sellers. Free to try with 5 credits. No watermark. Visit sparkpix.ai to start. |
 
 
 
