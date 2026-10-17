@@ -38,6 +38,7 @@
 | [Grok TaskPro](https://trygroktask.asia) | GrokTask / Grok TaskPro 是一个基于 Grok AI 的智能任务自动化平台，支持定时任务、AI 自动执行、信息收集与分析、社交媒体监控、内容生成、数据分析、任务模板库和执行历史管理。 |
 | [image-prompt-generator](https://image-prompt-generator.com) | Image Prompt Generator 是一个免费的 AI 图像提示词生成器和提示词库，支持按模型筛选、浏览提示词示例，并生成可直接复制使用的图片提示词。 |
 | [AI TransPDF](https://aitranspdf.com) | AI TransPDF 是一款专注于PDF文件翻译的AI辅助工具，能够在保留原有版式的前提下，高效准确地将PDF文档翻译成多种语言，适用于论文、手册、财务报告、合同等各类正式文档。 |
+| [AI Music Generator - 免费在线使用的AI音乐生成器](https://musicgeneratorai.com) | Music Generator AI 是一个创新的 AI 音乐创作平台，整合了最先进的人工智能技术。通过简单的文字描述或歌词输入，用户可以在几分钟内生成完整的原创音乐作品。 |
 
 
 
