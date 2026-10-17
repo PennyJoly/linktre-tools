@@ -36,6 +36,7 @@
 | [momoai](https://doc.momoai.asia/) | AI 信息差是 MaynorAI 的 AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流、Cloudflare 上站部署和会员深度文章。 |
 | [sparkpix-ai photo editor](https://sparkpix.ai) | SparkPix.ai is a free online AI photo editor. Main functions include unblur photos, upscale images to 4K, remove backgrounds, and transform photos into anime or art styles. Suitable for designers, photographers, and e-commerce sellers. Free to try with 5 credits. No watermark. Visit sparkpix.ai to start. |
 | [Grok TaskPro](https://trygroktask.asia) | GrokTask / Grok TaskPro 是一个基于 Grok AI 的智能任务自动化平台，支持定时任务、AI 自动执行、信息收集与分析、社交媒体监控、内容生成、数据分析、任务模板库和执行历史管理。 |
+| [image-prompt-generator](https://image-prompt-generator.com) | Image Prompt Generator 是一个免费的 AI 图像提示词生成器和提示词库，支持按模型筛选、浏览提示词示例，并生成可直接复制使用的图片提示词。 |
 
 
 
