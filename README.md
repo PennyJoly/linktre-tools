@@ -346,6 +346,7 @@
 | [法定退休& 养老金资格计算器](https://www.linktre.cc/siteDetails/430) | 在线计算法定退休年龄及养老金 |
 | [房贷利率调整计算器](https://www.linktre.cc/siteDetails/431) | 轻松计算月供变化 |
 | [投资策略模拟器](https://www.linktre.cc/siteDetails/438) | 协助用户模拟投资分析 |
+| [CurlShot](https://curlshot.com) | 网页截图 API：一次 HTTP 请求把 URL、HTML 或 Markdown 转成 PNG、JPEG、WebP、PDF 或滚动视频，免费版每月 100 张截图 |
 
 
 
