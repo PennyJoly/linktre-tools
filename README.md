@@ -20,7 +20,6 @@
 | [RepoWho](https://repowho.com) | 一个精选的开源目录，旨在将 GitHub 项目与其背后的开发者联系起来。 |
 | [NuxtDir](https://nuxtdir.com) | NuxtDir 发现最火爆热门的AI产品,让你的产品脱引而出,凭借高DR权重快速获取1000+用户，获取更多流量曝光！ |
 | [FreeTempMail](https://mail.aitre.cc) |开源免费临时邮箱,获取临时邮箱地址，保护您的隐私。无需注册，即时生成，自动接收邮件。 |
-
 | [节点导航站(开源版本)](https://github.com/PennyJoly/linktre.cc) | 节点导航站开源版本具备完整的前后台且模块化友好支持SEO的导航站点 |
 | [NuxtPro开源版](https://github.com/PennyJoly/NuxtPro) | 基于Nuxt3的国内开发者友好的SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用 |
 
@@ -40,6 +39,7 @@
 | [AI TransPDF](https://aitranspdf.com) | AI TransPDF 是一款专注于PDF文件翻译的AI辅助工具，能够在保留原有版式的前提下，高效准确地将PDF文档翻译成多种语言，适用于论文、手册、财务报告、合同等各类正式文档。 |
 | [AI Music Generator - 免费在线使用的AI音乐生成器](https://musicgeneratorai.com) | Music Generator AI 是一个创新的 AI 音乐创作平台，整合了最先进的人工智能技术。通过简单的文字描述或歌词输入，用户可以在几分钟内生成完整的原创音乐作品。 |
 | [Gptimage2](https://gptimage2.asia) | Gptimage2 is an AI tool. |
+| [Mee Manga Translator 漫画翻译工具](https://mangatranslator.me) | Mee Manga Translator 是一款面向漫画、韩漫和 Webtoon 场景的在线 AI 翻译工具，支持图片文字识别、多语言翻译，并尽量保留原始排版与阅读体验，帮助用户更轻松地阅读外语漫画内容。 |
 
 
 
