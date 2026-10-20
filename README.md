@@ -32,6 +32,7 @@
 | --- | --- |
 | [EditTextImage](https://edittextimage.com) | EditTextImage 是一个 AI 图片文字编辑器：上传图片后直接改写其中的文字，自动保持原有字体、颜色和背景；同时支持去除图中文字、整图翻译（App Store 截图、商品图、海报）和浏览器内本地打码。网页、iOS、Android 均可使用。 |
 | [YYLO CLI](https://github.com/yylo-dev/yylo) | 开源的 AI 编码代理编排命令行工具，管理代理循环、可重复工作流与带回执的仓库变更。 |
+| [PlaceCall](https://voygr.tech/placecall/) | 让 AI Agent 替用户给美国商家打真实电话（订位、预约、询价），可处理语音菜单、等待和转接，结束后返回通话结果、文字记录和录音；以远程 MCP 服务器、REST API 和 Agent Skill 的形式接入 Claude Code、Codex、Cursor 等工具。 |
 
 
 
@@ -98,6 +99,7 @@
 | [Realtime API](https://www.linktre.cc/siteDetails/435) | openai的低延迟的实时语音交互API |
 | [Saylo AI](https://www.linktre.cc/siteDetails/436) | 探索无限的AI角色扮演游戏 |
 | [sparkpix-ai photo editor](https://sparkpix.ai) | SparkPix.ai is a free online AI photo editor. Main functions include unblur photos, upscale images to 4K, remove backgrounds, and transform photos into anime or art styles. Suitable for designers, photographers, and e-commerce sellers. Free to try with 5 credits. No watermark. Visit sparkpix.ai to start. |
+| [PlaceCall](https://voygr.tech/placecall/) | 让 AI Agent 替用户给美国商家打真实电话（订位、预约、询价），可处理语音菜单、等待和转接，结束后返回通话结果、文字记录和录音；以远程 MCP 服务器、REST API 和 Agent Skill 的形式接入 Claude Code、Codex、Cursor 等工具。 |
 
 
 
@@ -143,6 +145,7 @@
 | [AI Music Generator - 免费在线使用的AI音乐生成器](https://musicgeneratorai.com) | Music Generator AI 是一个创新的 AI 音乐创作平台，整合了最先进的人工智能技术。通过简单的文字描述或歌词输入，用户可以在几分钟内生成完整的原创音乐作品。 |
 | [Gptimage2](https://gptimage2.asia) | Gptimage2 is an AI tool. |
 | [Mee Manga Translator 漫画翻译工具](https://mangatranslator.me) | Mee Manga Translator 是一款面向漫画、韩漫和 Webtoon 场景的在线 AI 翻译工具，支持图片文字识别、多语言翻译，并尽量保留原始排版与阅读体验，帮助用户更轻松地阅读外语漫画内容。 |
+| [EditTextImage](https://edittextimage.com) | EditTextImage 是一个 AI 图片文字编辑器：上传图片后直接改写其中的文字，自动保持原有字体、颜色和背景；同时支持去除图中文字、整图翻译（App Store 截图、商品图、海报）和浏览器内本地打码。网页、iOS、Android 均可使用。 |
 
 
 ## 独立开发出海--支付工具
@@ -308,6 +311,7 @@
 | [Fofa-hack](https://www.linktre.cc/siteDetails/433) | 开源fofa爬虫工具 |
 | ["说人话"的开源许可证选择器](https://www.linktre.cc/siteDetails/437) | 简单明了的说人话的开源许可证选择器 |
 | [Glider代理池](https://www.linktre.cc/siteDetails/439) | 简易爬虫中转代理 |
+| [YYLO CLI](https://github.com/yylo-dev/yylo) | 开源的 AI 编码代理编排命令行工具，管理代理循环、可重复工作流与带回执的仓库变更。 |
 
 
 
