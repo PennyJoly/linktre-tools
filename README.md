@@ -30,16 +30,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [Doc2X](https://doc2x.noedgeai.com) | AI 文档解析与翻译，可将 PDF、扫描件和图片转为 Word、Markdown、LaTeX，识别公式与表格；支持 PDF/Word 文档翻译，并提供 Zotero 插件及开发者 API |
-| [aitoolsradar](https://aitoolsradar.com/zh) | 支持十种语言的 AI 工具与模型目录，包含 Agent Skills、Prompt 图库、AI 行业资讯和 Newsletter。独立开发者可用来发现与比较产品，并查找可复用技能和提示词。 |
-| [momoai](https://doc.momoai.asia/) | AI 信息差是 MaynorAI 的 AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流、Cloudflare 上站部署和会员深度文章。 |
-| [sparkpix-ai photo editor](https://sparkpix.ai) | SparkPix.ai is a free online AI photo editor. Main functions include unblur photos, upscale images to 4K, remove backgrounds, and transform photos into anime or art styles. Suitable for designers, photographers, and e-commerce sellers. Free to try with 5 credits. No watermark. Visit sparkpix.ai to start. |
-| [Grok TaskPro](https://trygroktask.asia) | GrokTask / Grok TaskPro 是一个基于 Grok AI 的智能任务自动化平台，支持定时任务、AI 自动执行、信息收集与分析、社交媒体监控、内容生成、数据分析、任务模板库和执行历史管理。 |
-| [image-prompt-generator](https://image-prompt-generator.com) | Image Prompt Generator 是一个免费的 AI 图像提示词生成器和提示词库，支持按模型筛选、浏览提示词示例，并生成可直接复制使用的图片提示词。 |
-| [AI TransPDF](https://aitranspdf.com) | AI TransPDF 是一款专注于PDF文件翻译的AI辅助工具，能够在保留原有版式的前提下，高效准确地将PDF文档翻译成多种语言，适用于论文、手册、财务报告、合同等各类正式文档。 |
-| [AI Music Generator - 免费在线使用的AI音乐生成器](https://musicgeneratorai.com) | Music Generator AI 是一个创新的 AI 音乐创作平台，整合了最先进的人工智能技术。通过简单的文字描述或歌词输入，用户可以在几分钟内生成完整的原创音乐作品。 |
-| [Gptimage2](https://gptimage2.asia) | Gptimage2 is an AI tool. |
-| [Mee Manga Translator 漫画翻译工具](https://mangatranslator.me) | Mee Manga Translator 是一款面向漫画、韩漫和 Webtoon 场景的在线 AI 翻译工具，支持图片文字识别、多语言翻译，并尽量保留原始排版与阅读体验，帮助用户更轻松地阅读外语漫画内容。 |
+| [EditTextImage](https://edittextimage.com) | EditTextImage 是一个 AI 图片文字编辑器：上传图片后直接改写其中的文字，自动保持原有字体、颜色和背景；同时支持去除图中文字、整图翻译（App Store 截图、商品图、海报）和浏览器内本地打码。网页、iOS、Android 均可使用。 |
 
 
 
@@ -105,6 +96,7 @@
 | [Buildpad](https://www.linktre.cc/siteDetails/434) | 构建人们真正想要的产品 |
 | [Realtime API](https://www.linktre.cc/siteDetails/435) | openai的低延迟的实时语音交互API |
 | [Saylo AI](https://www.linktre.cc/siteDetails/436) | 探索无限的AI角色扮演游戏 |
+| [sparkpix-ai photo editor](https://sparkpix.ai) | SparkPix.ai is a free online AI photo editor. Main functions include unblur photos, upscale images to 4K, remove backgrounds, and transform photos into anime or art styles. Suitable for designers, photographers, and e-commerce sellers. Free to try with 5 credits. No watermark. Visit sparkpix.ai to start. |
 
 
 
@@ -113,6 +105,8 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [momoai](https://doc.momoai.asia/) | AI 信息差是 MaynorAI 的 AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流、Cloudflare 上站部署和会员深度文章。 |
+| [aitoolsradar](https://aitoolsradar.com/zh) | 支持十种语言的 AI 工具与模型目录，包含 Agent Skills、Prompt 图库、AI 行业资讯和 Newsletter。独立开发者可用来发现与比较产品，并查找可复用技能和提示词。 |
 | [Rap Generato](https://www.linktre.cc/siteDetails/323) | 生成说唱歌词和歌曲的免费AI工具|
 | [suno-list](https://www.linktre.cc/siteDetails/319) | 收录了suno每日top10的榜单，并且加上自己的双语点评|
 | [suno-top](https://www.linktre.cc/siteDetails/320) | 免费下载suno音乐（官方没开放下载），定时更新制作AI音乐技巧 |
@@ -141,6 +135,13 @@
 | [言笔AI写作](https://www.linktre.cc/siteDetails/417) | ai智能写作工具 |
 | [Top AI Tools](https://www.linktre.cc/siteDetails/443) | 好用的 AI 工具合集 |
 | [Gen AI Prism Tools Directory](https://www.linktre.cc/siteDetails/445) | 免费Ai工具目录 |
+| [Doc2X](https://doc2x.noedgeai.com) | AI 文档解析与翻译，可将 PDF、扫描件和图片转为 Word、Markdown、LaTeX，识别公式与表格；支持 PDF/Word 文档翻译，并提供 Zotero 插件及开发者 API |
+| [Grok TaskPro](https://trygroktask.asia) | GrokTask / Grok TaskPro 是一个基于 Grok AI 的智能任务自动化平台，支持定时任务、AI 自动执行、信息收集与分析、社交媒体监控、内容生成、数据分析、任务模板库和执行历史管理。 |
+| [image-prompt-generator](https://image-prompt-generator.com) | Image Prompt Generator 是一个免费的 AI 图像提示词生成器和提示词库，支持按模型筛选、浏览提示词示例，并生成可直接复制使用的图片提示词。 |
+| [AI TransPDF](https://aitranspdf.com) | AI TransPDF 是一款专注于PDF文件翻译的AI辅助工具，能够在保留原有版式的前提下，高效准确地将PDF文档翻译成多种语言，适用于论文、手册、财务报告、合同等各类正式文档。 |
+| [AI Music Generator - 免费在线使用的AI音乐生成器](https://musicgeneratorai.com) | Music Generator AI 是一个创新的 AI 音乐创作平台，整合了最先进的人工智能技术。通过简单的文字描述或歌词输入，用户可以在几分钟内生成完整的原创音乐作品。 |
+| [Gptimage2](https://gptimage2.asia) | Gptimage2 is an AI tool. |
+| [Mee Manga Translator 漫画翻译工具](https://mangatranslator.me) | Mee Manga Translator 是一款面向漫画、韩漫和 Webtoon 场景的在线 AI 翻译工具，支持图片文字识别、多语言翻译，并尽量保留原始排版与阅读体验，帮助用户更轻松地阅读外语漫画内容。 |
 
 
 ## 独立开发出海--支付工具
