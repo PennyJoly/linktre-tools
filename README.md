@@ -31,6 +31,7 @@
 | 站点 | 简介 |
 | --- | --- |
 | [EditTextImage](https://edittextimage.com) | EditTextImage 是一个 AI 图片文字编辑器：上传图片后直接改写其中的文字，自动保持原有字体、颜色和背景；同时支持去除图中文字、整图翻译（App Store 截图、商品图、海报）和浏览器内本地打码。网页、iOS、Android 均可使用。 |
+| [YYLO CLI](https://github.com/yylo-dev/yylo) | 开源的 AI 编码代理编排命令行工具，管理代理循环、可重复工作流与带回执的仓库变更。 |
 
 
 
