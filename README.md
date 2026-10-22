@@ -30,9 +30,8 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [EditTextImage](https://edittextimage.com) | EditTextImage 是一个 AI 图片文字编辑器：上传图片后直接改写其中的文字，自动保持原有字体、颜色和背景；同时支持去除图中文字、整图翻译（App Store 截图、商品图、海报）和浏览器内本地打码。网页、iOS、Android 均可使用。 |
-| [YYLO CLI](https://github.com/yylo-dev/yylo) | 开源的 AI 编码代理编排命令行工具，管理代理循环、可重复工作流与带回执的仓库变更。 |
-| [PlaceCall](https://voygr.tech/placecall/) | 让 AI Agent 替用户给美国商家打真实电话（订位、预约、询价），可处理语音菜单、等待和转接，结束后返回通话结果、文字记录和录音；以远程 MCP 服务器、REST API 和 Agent Skill 的形式接入 Claude Code、Codex、Cursor 等工具。 |
+| [pitchboom](https://pitchboom.io) | AI 动效设计（motion design）视频广告工作室：粘贴产品网址或两行简介，自动撰写脚本、生成可编辑并确认的分镜、配旁白和背景音乐，导出 16:9、9:16、1:1、4:5、3:4 的 1080p MP4（各画幅重新排版而非裁切），适用于 TikTok、Instagram Reels、YouTube Shorts、Meta、LinkedIn 等平台的视频广告。 
+
 
 
 
@@ -100,6 +99,7 @@
 | [Saylo AI](https://www.linktre.cc/siteDetails/436) | 探索无限的AI角色扮演游戏 |
 | [sparkpix-ai photo editor](https://sparkpix.ai) | SparkPix.ai is a free online AI photo editor. Main functions include unblur photos, upscale images to 4K, remove backgrounds, and transform photos into anime or art styles. Suitable for designers, photographers, and e-commerce sellers. Free to try with 5 credits. No watermark. Visit sparkpix.ai to start. |
 | [PlaceCall](https://voygr.tech/placecall/) | 让 AI Agent 替用户给美国商家打真实电话（订位、预约、询价），可处理语音菜单、等待和转接，结束后返回通话结果、文字记录和录音；以远程 MCP 服务器、REST API 和 Agent Skill 的形式接入 Claude Code、Codex、Cursor 等工具。 |
+| [pitchboom](https://pitchboom.io) | AI 动效设计（motion design）视频广告工作室：粘贴产品网址或两行简介，自动撰写脚本、生成可编辑并确认的分镜、配旁白和背景音乐，导出 16:9、9:16、1:1、4:5、3:4 的 1080p MP4（各画幅重新排版而非裁切），适用于 TikTok、Instagram Reels、YouTube Shorts、Meta、LinkedIn 等平台的视频广告。 
 
 
 
