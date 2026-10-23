@@ -30,7 +30,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [pitchboom](https://pitchboom.io) | AI 动效设计（motion design）视频广告工作室：粘贴产品网址或两行简介，自动撰写脚本、生成可编辑并确认的分镜、配旁白和背景音乐，导出 16:9、9:16、1:1、4:5、3:4 的 1080p MP4（各画幅重新排版而非裁切），适用于 TikTok、Instagram Reels、YouTube Shorts、Meta、LinkedIn 等平台的视频广告。 
+| [JuzPost](https://www.juzpost.com) | AI 优先的社交媒体排期工具，一次排期发布到 X、LinkedIn、Instagram、Facebook、TikTok、YouTube、Threads、Bluesky、Pinterest、Tumblr、WordPress 共 11 个平台。 
 
 
 
@@ -327,6 +327,7 @@
 | [wideo](https://www.linktre.cc/siteDetails/264) | 广告创意视频制作工具 |
 | [explodingtopics](https://www.linktre.cc/siteDetails/412) | 根据关键词追踪话题热度趋势的工具 |
 | [吉光卡片](https://www.linktre.cc/siteDetails/415) | 社媒运营卡片化制作工具 |
+| [JuzPost](https://www.juzpost.com) | AI 优先的社交媒体排期工具，一次排期发布到 X、LinkedIn、Instagram、Facebook、TikTok、YouTube、Threads、Bluesky、Pinterest、Tumblr、WordPress 共 11 个平台。 
 
 
 
