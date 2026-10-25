@@ -2,7 +2,7 @@
 工具得心应手，出海说走就走！
 
 本仓库为主要围绕独立开发者技术工具、AI产品、跨境电商、自媒体人办公辅助工具进行收录，持续整理中......
-收录的站点均为NoFollow，如需Follow权重传递，请发送至邮箱📮：c2500338766@icloud.com，备注：权重传递
+收录的站点均为NoFollow，如需Follow权重传递，商业推广，请发送至邮箱📮：c2500338766@icloud.com，备注：商业合作
 
 欢迎提交 pr 和 issues 进行收录更新，每日持续关注。
 喜欢的话欢迎踊跃✨✨STAR✨✨
@@ -30,7 +30,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [JuzPost](https://www.juzpost.com) | AI 优先的社交媒体排期工具，一次排期发布到 X、LinkedIn、Instagram、Facebook、TikTok、YouTube、Threads、Bluesky、Pinterest、Tumblr、WordPress 共 11 个平台。 
+| [巨浪 AI](https://jvlangai.com/guides/codex) | 按模型查看API服务商公开报价和原始来源，并阅读Codex配置失效与401排查指南；当前查询与指南免费，无需登录。 
 
 
 
