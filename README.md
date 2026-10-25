@@ -43,6 +43,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [agent-qa](https://github.com/vostride/agent-qa) | vostride 的自然语言自动化测试工具，支持 Web、Android 和 iOS；结合先进的 memidex 记忆引擎与自我改进能力，复用测试经验，帮助开发者发现回归问题。 |
 | [ChatGPT](https://openai.com/chatgpt/) | OpenAI推出的AI对话工具 |
 | [Midjourney](https://www.midjourney.com/home) | AI图像插画生成工具 |
 | [Claude](https://www.linktre.cc/siteDetails/238) | OpenAI最大的竞争对手Anthropic发布了新一代AI大模型系列 |
