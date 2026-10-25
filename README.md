@@ -16,7 +16,7 @@
 | 站点 | 简介 |
 | --- | --- |
 | [CodeProxy](https://codeproxy.dev) | CodeProxy 为 OpenClaw/Hermes Agnet 重度用户、开发团队和深度 Codex /Claude Code 工作流提供稳定的大额度 Codex 订阅与 API 网关服务。 |
-| [NuxtPro](https://nuxtpro.com) | 基于Nuxt3的国内开发者友好的SaaS出海模板，预集成Stripe/Cream/bagelpay/paypal支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用 |
+| [NuxtPro](https://nuxtpro.com) | 基于Nuxt3的国内开发者友好的SaaS出海模板，预集成Stripe/waffo pancake/bagelpay/paypal支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用 |
 | [RepoWho](https://repowho.com) | 一个精选的开源目录，旨在将 GitHub 项目与其背后的开发者联系起来。 |
 | [NuxtDir](https://nuxtdir.com) | NuxtDir 发现最火爆热门的AI产品,让你的产品脱引而出,凭借高DR权重快速获取1000+用户，获取更多流量曝光！ |
 | [FreeTempMail](https://mail.aitre.cc) |开源免费临时邮箱,获取临时邮箱地址，保护您的隐私。无需注册，即时生成，自动接收邮件。 |
@@ -188,6 +188,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [NuxtPro](https://nuxtpro.com) | 基于Nuxt3的国内开发者友好的SaaS出海模板，预集成Stripe/waffo pancake/bagelpay/paypal支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用 |
 | [supastarter](https://www.linktre.cc/siteDetails/281) | 使用流行的前端框架如Next.js和Nuxt，一天之内快速上线! |
 | [nextjs billing](https://www.linktre.cc/siteDetails/282) | 由Lemon Squeezy开源的，计费-LemonSqueezy 授权-NextAuth.js ORM-Prisma 样式-Tailwind CSS 邮件-Resend |
 | [SaaS-Boilerplate](https://www.linktre.cc/siteDetails/283) | 一款开源的SaaS模板，非常适合构建自己的SaaS应用。使用React+Tailwind CsS +Shadcn Ul包括身份验证，多租户，角色权限，MFA，用户登录，数据库和日志记录~ |
@@ -223,6 +224,7 @@
 | [aibasket](https://www.linktre.cc/siteDetails/440) | ai工具导航站 |
 | [so0000软件目录](https://www.linktre.cc/siteDetails/441) | 精品Windows免费软件下载 |
 | [一个朋友](https://www.linktre.cc/siteDetails/444) | 每日免费机场推荐 |
+| [巨浪 AI](https://jvlangai.com/guides/codex) | 按模型查看API服务商公开报价和原始来源，并阅读Codex配置失效与401排查指南；当前查询与指南免费，无需登录。
 
 
 ## 独立开发出海--数据库
