@@ -31,6 +31,7 @@
 | 站点 | 简介 |
 | --- | --- |
 | [巨浪 AI](https://jvlangai.com/guides/codex) | 按模型查看API服务商公开报价和原始来源，并阅读Codex配置失效与401排查指南；当前查询与指南免费，无需登录。 
+| [agent-qa](https://github.com/vostride/agent-qa) | 由 vostride 开发的自然语言自动化测试工具，支持 Web、Android 和 iOS，结合先进的 memidex 记忆引擎与自我改进能力，帮助开发者复用测试经验、发现回归问题。 
 
 
 
@@ -100,6 +101,7 @@
 | [sparkpix-ai photo editor](https://sparkpix.ai) | SparkPix.ai is a free online AI photo editor. Main functions include unblur photos, upscale images to 4K, remove backgrounds, and transform photos into anime or art styles. Suitable for designers, photographers, and e-commerce sellers. Free to try with 5 credits. No watermark. Visit sparkpix.ai to start. |
 | [PlaceCall](https://voygr.tech/placecall/) | 让 AI Agent 替用户给美国商家打真实电话（订位、预约、询价），可处理语音菜单、等待和转接，结束后返回通话结果、文字记录和录音；以远程 MCP 服务器、REST API 和 Agent Skill 的形式接入 Claude Code、Codex、Cursor 等工具。 |
 | [pitchboom](https://pitchboom.io) | AI 动效设计（motion design）视频广告工作室：粘贴产品网址或两行简介，自动撰写脚本、生成可编辑并确认的分镜、配旁白和背景音乐，导出 16:9、9:16、1:1、4:5、3:4 的 1080p MP4（各画幅重新排版而非裁切），适用于 TikTok、Instagram Reels、YouTube Shorts、Meta、LinkedIn 等平台的视频广告。 
+| [agent-qa](https://github.com/vostride/agent-qa) | 由 vostride 开发的自然语言自动化测试工具，支持 Web、Android 和 iOS，结合先进的 memidex 记忆引擎与自我改进能力，帮助开发者复用测试经验、发现回归问题。 
 
 
 
