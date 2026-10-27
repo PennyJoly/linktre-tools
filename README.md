@@ -30,9 +30,8 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [巨浪 AI](https://jvlangai.com/guides/codex) | 按模型查看API服务商公开报价和原始来源，并阅读Codex配置失效与401排查指南；当前查询与指南免费，无需登录。 
-| [agent-qa](https://github.com/vostride/agent-qa) | 由 vostride 开发的自然语言自动化测试工具，支持 Web、Android 和 iOS，结合先进的 memidex 记忆引擎与自我改进能力，帮助开发者复用测试经验、发现回归问题。 
-| [apkgo cloud](https://apkgo.baici.tech) | 开源 CLI + 托管版，一次上传并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS；CLI 许可 PolyForm Noncommercial。
+| [RespawnStack](https://respawnstack.com) | AI 游戏开发工具导航（免费浏览） 
+
 
 
 
@@ -228,6 +227,7 @@
 | [so0000软件目录](https://www.linktre.cc/siteDetails/441) | 精品Windows免费软件下载 |
 | [一个朋友](https://www.linktre.cc/siteDetails/444) | 每日免费机场推荐 |
 | [巨浪 AI](https://jvlangai.com/guides/codex) | 按模型查看API服务商公开报价和原始来源，并阅读Codex配置失效与401排查指南；当前查询与指南免费，无需登录。
+| [RespawnStack](https://respawnstack.com) | AI 游戏开发工具导航（免费浏览） 
 
 
 ## 独立开发出海--数据库
