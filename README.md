@@ -30,7 +30,10 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [声之帆 VoxSail](https://voxsail.com) | 在线音视频翻译、AI 配音与字幕审校工作台，可转录语音、翻译字幕，在浏览器编辑器复查后按项目类型导出视频、音频、文稿及 SRT/ASS 字幕。 
+| [听说了吗？（AnyMesgs）](https://anymesgs.com) | 用人话讲明白 AI 热点；中英日，附原文与 RSS，文章免费读。
+| [HumanizeAI](https://www.humanizeaiwork.com) | 把 ChatGPT 等英文草稿改得更自然好读；免费多风格，不用注册。
+| [FaviconDL](https://favicondl.com) | 输入网址下载网站全部图标（ICO/PNG/SVG），附免 Key API；免费，不用注册。
+| [ReadGZH](https://readgzh.site) | 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。先解决正文可达，不做自动总结。
 
 
 
@@ -149,6 +152,7 @@
 | [Mee Manga Translator 漫画翻译工具](https://mangatranslator.me) | Mee Manga Translator 是一款面向漫画、韩漫和 Webtoon 场景的在线 AI 翻译工具，支持图片文字识别、多语言翻译，并尽量保留原始排版与阅读体验，帮助用户更轻松地阅读外语漫画内容。 |
 | [EditTextImage](https://edittextimage.com) | EditTextImage 是一个 AI 图片文字编辑器：上传图片后直接改写其中的文字，自动保持原有字体、颜色和背景；同时支持去除图中文字、整图翻译（App Store 截图、商品图、海报）和浏览器内本地打码。网页、iOS、Android 均可使用。 |
 | [声之帆 VoxSail](https://voxsail.com/) | 在线音视频翻译、AI 配音与字幕审校工作台，可转录语音、翻译字幕，在浏览器编辑器复查后按项目类型导出视频、音频、文稿及 SRT/ASS 字幕。 
+| [ReadGZH](https://readgzh.site) | 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。先解决正文可达，不做自动总结。
 
 
 ## 独立开发出海--支付工具
@@ -229,6 +233,7 @@
 | [一个朋友](https://www.linktre.cc/siteDetails/444) | 每日免费机场推荐 |
 | [巨浪 AI](https://jvlangai.com/guides/codex) | 按模型查看API服务商公开报价和原始来源，并阅读Codex配置失效与401排查指南；当前查询与指南免费，无需登录。
 | [RespawnStack](https://respawnstack.com) | AI 游戏开发工具导航（免费浏览） 
+| [听说了吗？（AnyMesgs）](https://anymesgs.com) | 用人话讲明白 AI 热点；中英日，附原文与 RSS，文章免费读。
 
 
 ## 独立开发出海--数据库
@@ -364,6 +369,8 @@
 | [法定退休& 养老金资格计算器](https://www.linktre.cc/siteDetails/430) | 在线计算法定退休年龄及养老金 |
 | [房贷利率调整计算器](https://www.linktre.cc/siteDetails/431) | 轻松计算月供变化 |
 | [投资策略模拟器](https://www.linktre.cc/siteDetails/438) | 协助用户模拟投资分析 |
+| [HumanizeAI](https://www.humanizeaiwork.com) | 把 ChatGPT 等英文草稿改得更自然好读；免费多风格，不用注册。
+| [FaviconDL](https://favicondl.com) | 输入网址下载网站全部图标（ICO/PNG/SVG），附免 Key API；免费，不用注册。
 
 
 
