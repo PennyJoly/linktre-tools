@@ -30,10 +30,9 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [听说了吗？（AnyMesgs）](https://anymesgs.com) | 用人话讲明白 AI 热点；中英日，附原文与 RSS，文章免费读。
-| [HumanizeAI](https://www.humanizeaiwork.com) | 把 ChatGPT 等英文草稿改得更自然好读；免费多风格，不用注册。
-| [FaviconDL](https://favicondl.com) | 输入网址下载网站全部图标（ICO/PNG/SVG），附免 Key API；免费，不用注册。
-| [ReadGZH](https://readgzh.site) | 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。先解决正文可达，不做自动总结。
+| [证伪AI（DisconfirmAI）](https://disconfirmai.com/zh) | 在形成投资判断之前，先用 AI 找可能推翻这个判断的反面证据。包含每日公开信源阅读、财报和数据研究、按自定条件扫描变化的雷达、个人投资框架，以及 AI 100 榜单和行业图谱。公开部分可以免费使用。
+| [QuantDinger](https://github.com/OpenByteInc/QuantDinger) | QuantDinger 是一个 AI 原生开源量化研究与自动交易平台，支持通过自然语言生成交易策略，并完成回测分析、策略优化和实盘交易。
+
 
 
 
@@ -153,6 +152,7 @@
 | [EditTextImage](https://edittextimage.com) | EditTextImage 是一个 AI 图片文字编辑器：上传图片后直接改写其中的文字，自动保持原有字体、颜色和背景；同时支持去除图中文字、整图翻译（App Store 截图、商品图、海报）和浏览器内本地打码。网页、iOS、Android 均可使用。 |
 | [声之帆 VoxSail](https://voxsail.com/) | 在线音视频翻译、AI 配音与字幕审校工作台，可转录语音、翻译字幕，在浏览器编辑器复查后按项目类型导出视频、音频、文稿及 SRT/ASS 字幕。 
 | [ReadGZH](https://readgzh.site) | 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。先解决正文可达，不做自动总结。
+| [证伪AI（DisconfirmAI）](https://disconfirmai.com/zh) | 在形成投资判断之前，先用 AI 找可能推翻这个判断的反面证据。包含每日公开信源阅读、财报和数据研究、按自定条件扫描变化的雷达、个人投资框架，以及 AI 100 榜单和行业图谱。公开部分可以免费使用。
 
 
 ## 独立开发出海--支付工具
@@ -324,6 +324,7 @@
 | [Glider代理池](https://www.linktre.cc/siteDetails/439) | 简易爬虫中转代理 |
 | [YYLO CLI](https://github.com/yylo-dev/yylo) | 开源的 AI 编码代理编排命令行工具，管理代理循环、可重复工作流与带回执的仓库变更。 |
 | [apkgo cloud](https://apkgo.baici.tech) | 开源 CLI + 托管版，一次上传并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS；CLI 许可 PolyForm Noncommercial。|
+| [QuantDinger](https://github.com/OpenByteInc/QuantDinger) | QuantDinger 是一个 AI 原生开源量化研究与自动交易平台，支持通过自然语言生成交易策略，并完成回测分析、策略优化和实盘交易。
 
 
 
