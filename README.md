@@ -396,6 +396,7 @@
 | [AlphaRank SEO](https://www.linktre.cc/siteDetails/370) | Shopify店铺设计的AI SEO优化工具 |
 | [fastmoss](https://www.linktre.cc/siteDetails/418) | tiktok数据分析工具 |
 | [adsmoss](https://www.linktre.cc/siteDetails/419) | TikTok广告监控工具 |
+| [TKMetrics](https://tkmetrics.com/) | TikTok 达人数据查询：粉丝数、互动率、视频表现 |
 
 
 
