@@ -30,8 +30,8 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [证伪AI（DisconfirmAI）](https://disconfirmai.com/zh) | 在形成投资判断之前，先用 AI 找可能推翻这个判断的反面证据。包含每日公开信源阅读、财报和数据研究、按自定条件扫描变化的雷达、个人投资框架，以及 AI 100 榜单和行业图谱。公开部分可以免费使用。
-| [QuantDinger](https://github.com/OpenByteInc/QuantDinger) | QuantDinger 是一个 AI 原生开源量化研究与自动交易平台，支持通过自然语言生成交易策略，并完成回测分析、策略优化和实盘交易。
+| [giffgaff 保号提醒器 (Keep Number Reminder)](https://github.com/siuserxiaowei/keep-number-reminder) | 专为境外手机卡用户设计的防过期保号提醒工具，纯前端在浏览器本地计算并导出 .ics 日历提醒。
+| [SiftingIO Market Data API](https://sifting.io/) | 通过统一的 REST 和 WebSocket 接口获取美国股票与 ETF、外汇、大宗商品及加密货币的实时行情，并通过 REST 查询历史 OHLCV 数据。
 
 
 
@@ -325,6 +325,7 @@
 | [YYLO CLI](https://github.com/yylo-dev/yylo) | 开源的 AI 编码代理编排命令行工具，管理代理循环、可重复工作流与带回执的仓库变更。 |
 | [apkgo cloud](https://apkgo.baici.tech) | 开源 CLI + 托管版，一次上传并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS；CLI 许可 PolyForm Noncommercial。|
 | [QuantDinger](https://github.com/OpenByteInc/QuantDinger) | QuantDinger 是一个 AI 原生开源量化研究与自动交易平台，支持通过自然语言生成交易策略，并完成回测分析、策略优化和实盘交易。
+| [giffgaff 保号提醒器 (Keep Number Reminder)](https://github.com/siuserxiaowei/keep-number-reminder) | 专为境外手机卡用户设计的防过期保号提醒工具，纯前端在浏览器本地计算并导出 .ics 日历提醒。
 
 
 
@@ -372,6 +373,7 @@
 | [投资策略模拟器](https://www.linktre.cc/siteDetails/438) | 协助用户模拟投资分析 |
 | [HumanizeAI](https://www.humanizeaiwork.com) | 把 ChatGPT 等英文草稿改得更自然好读；免费多风格，不用注册。
 | [FaviconDL](https://favicondl.com) | 输入网址下载网站全部图标（ICO/PNG/SVG），附免 Key API；免费，不用注册。
+| [SiftingIO Market Data API](https://sifting.io/) | 通过统一的 REST 和 WebSocket 接口获取美国股票与 ETF、外汇、大宗商品及加密货币的实时行情，并通过 REST 查询历史 OHLCV 数据。
 
 
 
