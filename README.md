@@ -31,7 +31,7 @@
 | 站点 | 简介 |
 | --- | --- |
 
-| [TKMetrics](https://tkmetrics.com/) | TikTok 达人数据查询：粉丝数、互动率、视频表现。
+| [TKMetrics](https://tkmetrics.com/) | TikTok 达人数据查询：粉丝数、互动率、视频表现。|
 
 
 
