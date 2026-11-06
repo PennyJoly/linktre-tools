@@ -30,8 +30,8 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [giffgaff 保号提醒器 (Keep Number Reminder)](https://github.com/siuserxiaowei/keep-number-reminder) | 专为境外手机卡用户设计的防过期保号提醒工具，纯前端在浏览器本地计算并导出 .ics 日历提醒。
-| [SiftingIO Market Data API](https://sifting.io/) | 通过统一的 REST 和 WebSocket 接口获取美国股票与 ETF、外汇、大宗商品及加密货币的实时行情，并通过 REST 查询历史 OHLCV 数据。
+
+| [TKMetrics](https://tkmetrics.com/) | TikTok 达人数据查询：粉丝数、互动率、视频表现。
 
 
 
@@ -396,6 +396,7 @@
 | [AlphaRank SEO](https://www.linktre.cc/siteDetails/370) | Shopify店铺设计的AI SEO优化工具 |
 | [fastmoss](https://www.linktre.cc/siteDetails/418) | tiktok数据分析工具 |
 | [adsmoss](https://www.linktre.cc/siteDetails/419) | TikTok广告监控工具 |
+| [TKMetrics](https://tkmetrics.com/) | TikTok 达人数据查询：粉丝数、互动率、视频表现。
 
 
 
