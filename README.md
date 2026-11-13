@@ -114,6 +114,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [TokenMost](https://tokenmost.com/) | AI token 折扣与免费额度情报站：聚合 260+ 条官方羊毛情报（大模型官方/Agent 平台/云服务器免费档），每条带核实日期、过期自动下架，附比价计算器与领取攻略。 |
 | [momoai](https://doc.momoai.asia/) | AI 信息差是 MaynorAI 的 AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流、Cloudflare 上站部署和会员深度文章。 |
 | [aitoolsradar](https://aitoolsradar.com/zh) | 支持十种语言的 AI 工具与模型目录，包含 Agent Skills、Prompt 图库、AI 行业资讯和 Newsletter。独立开发者可用来发现与比较产品，并查找可复用技能和提示词。 |
 | [Rap Generato](https://www.linktre.cc/siteDetails/323) | 生成说唱歌词和歌曲的免费AI工具|
