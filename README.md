@@ -30,7 +30,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [MomentRescue Remove Person from Photo](https://momentrescue.com/remove-person-from-photo) | 在线 AI 照片人物移除工具。上传照片后，用画笔标记想移除的人物，可添加简短说明；AI 尝试补全背景，生成后可对比原图与结果。支持 JPG、PNG、WebP，单张不超过 10 MB|
+| [dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills) | 面向机关、事业单位、国企文字工作者的开源公文写作 Skills，22 个 skill 覆盖起草、改稿、核稿和 GB/T 9704 一键排版；事实只取自用户材料，不编造；支持 Claude Code、Codex、Cursor 等 Agent 工具，也有可直接粘贴到网页大模型的提示词版。|
 
 
 
@@ -325,8 +325,9 @@
 | [Glider代理池](https://www.linktre.cc/siteDetails/439) | 简易爬虫中转代理 |
 | [YYLO CLI](https://github.com/yylo-dev/yylo) | 开源的 AI 编码代理编排命令行工具，管理代理循环、可重复工作流与带回执的仓库变更。 |
 | [apkgo cloud](https://apkgo.baici.tech) | 开源 CLI + 托管版，一次上传并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS；CLI 许可 PolyForm Noncommercial。|
-| [QuantDinger](https://github.com/OpenByteInc/QuantDinger) | QuantDinger 是一个 AI 原生开源量化研究与自动交易平台，支持通过自然语言生成交易策略，并完成回测分析、策略优化和实盘交易。
-| [giffgaff 保号提醒器 (Keep Number Reminder)](https://github.com/siuserxiaowei/keep-number-reminder) | 专为境外手机卡用户设计的防过期保号提醒工具，纯前端在浏览器本地计算并导出 .ics 日历提醒。
+| [QuantDinger](https://github.com/OpenByteInc/QuantDinger) | QuantDinger 是一个 AI 原生开源量化研究与自动交易平台，支持通过自然语言生成交易策略，并完成回测分析、策略优化和实盘交易。|
+| [giffgaff 保号提醒器 (Keep Number Reminder)](https://github.com/siuserxiaowei/keep-number-reminder) | 专为境外手机卡用户设计的防过期保号提醒工具，纯前端在浏览器本地计算并导出 .ics 日历提醒。|
+| [dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills) | 面向机关、事业单位、国企文字工作者的开源公文写作 Skills，22 个 skill 覆盖起草、改稿、核稿和 GB/T 9704 一键排版；事实只取自用户材料，不编造；支持 Claude Code、Codex、Cursor 等 Agent 工具，也有可直接粘贴到网页大模型的提示词版。|
 
 
 
