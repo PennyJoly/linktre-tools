@@ -31,6 +31,7 @@
 | 站点 | 简介 |
 | --- | --- |
 | [dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills) | 面向机关、事业单位、国企文字工作者的开源公文写作 Skills，22 个 skill 覆盖起草、改稿、核稿和 GB/T 9704 一键排版；事实只取自用户材料，不编造；支持 Claude Code、Codex、Cursor 等 Agent 工具，也有可直接粘贴到网页大模型的提示词版。|
+| [CodeProxy AI Gateway Skill](https://github.com/PennyJoly/codeproxy-ai-gateway) | 这是一个用于 Codex/Claude Code/Openclaw/Hermes Agent等等agent 的 skill，可帮助团队通过统一网关安全地配置、迁移、治理和排查 AI 编程代理。它面向平台工程、IT、安全、DevOps 和开发者体验团队，提供可重复使用的 AI 访问标准化流程，同时避免覆盖开发者已有的配置。|
 
 
 
