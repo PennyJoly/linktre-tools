@@ -30,8 +30,9 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills) | 面向机关、事业单位、国企文字工作者的开源公文写作 Skills，22 个 skill 覆盖起草、改稿、核稿和 GB/T 9704 一键排版；事实只取自用户材料，不编造；支持 Claude Code、Codex、Cursor 等 Agent 工具，也有可直接粘贴到网页大模型的提示词版。|
-| [CodeProxy AI Gateway Skill](https://github.com/PennyJoly/codeproxy-ai-gateway) | 这是一个用于 Codex/Claude Code/Openclaw/Hermes Agent等等agent 的 skill，可帮助团队通过统一网关安全地配置、迁移、治理和排查 AI 编程代理。它面向平台工程、IT、安全、DevOps 和开发者体验团队，提供可重复使用的 AI 访问标准化流程，同时避免覆盖开发者已有的配置。|
+| [Sammi: AI Girlfriend](https://sammiai.app/) | Joy Fun 发布的安卓 AI 陪伴应用，提供与虚构角色的文字聊天、语音互动、角色定制和剧情扮演。Google Play 可免费下载，含应用内购买。|
+| [灵犀 Lyncis](https://lyncis.app) | 国学版 MBTI。输入生日，测出你在《周易》64 卦里的本命卦、身份名和本命神，再拉朋友合一卦，看看你们是什么组合。出处来自《周易》、二十四节气（2016 年列入联合国非遗）和唐宋经典。网页直接打开就能用，支持中文和英文。|
+| [TokenMost](https://tokenmost.com/) | token 折扣与免费额度情报导航站。|
 
 
 
@@ -106,6 +107,7 @@
 | [agent-qa](https://github.com/vostride/agent-qa) | 由 vostride 开发的自然语言自动化测试工具，支持 Web、Android 和 iOS，结合先进的 memidex 记忆引擎与自我改进能力，帮助开发者复用测试经验、发现回归问题。 
 | [objekto](https://objekto.io/en) | 用几句话、一张照片或一张草图描述想要的物品，AI 以参数化 CAD 逐个部件设计可打印的多部件 3D 模型，检查每个部件是否可打印，并提供爆炸图、零件清单和装配指南；随后可由工业 3D 打印工坊制造并配送（上线初期仅配送至法国）。适合 makers、需要定制件或替换件的人、产品原型和个性化礼物。|
 | [MomentRescue Remove Person from Photo](https://momentrescue.com/remove-person-from-photo) | 在线 AI 照片人物移除工具。上传照片后，用画笔标记想移除的人物，可添加简短说明；AI 尝试补全背景，生成后可对比原图与结果。支持 JPG、PNG、WebP，单张不超过 10 MB|
+| [Sammi: AI Girlfriend](https://sammiai.app/) | Joy Fun 发布的安卓 AI 陪伴应用，提供与虚构角色的文字聊天、语音互动、角色定制和剧情扮演。Google Play 可免费下载，含应用内购买。|
 
 
 
@@ -154,7 +156,9 @@
 | [EditTextImage](https://edittextimage.com) | EditTextImage 是一个 AI 图片文字编辑器：上传图片后直接改写其中的文字，自动保持原有字体、颜色和背景；同时支持去除图中文字、整图翻译（App Store 截图、商品图、海报）和浏览器内本地打码。网页、iOS、Android 均可使用。 |
 | [声之帆 VoxSail](https://voxsail.com/) | 在线音视频翻译、AI 配音与字幕审校工作台，可转录语音、翻译字幕，在浏览器编辑器复查后按项目类型导出视频、音频、文稿及 SRT/ASS 字幕。 
 | [ReadGZH](https://readgzh.site) | 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。先解决正文可达，不做自动总结。
-| [证伪AI（DisconfirmAI）](https://disconfirmai.com/zh) | 在形成投资判断之前，先用 AI 找可能推翻这个判断的反面证据。包含每日公开信源阅读、财报和数据研究、按自定条件扫描变化的雷达、个人投资框架，以及 AI 100 榜单和行业图谱。公开部分可以免费使用。
+| [证伪AI（DisconfirmAI）](https://disconfirmai.com/zh) | 在形成投资判断之前，先用 AI 找可能推翻这个判断的反面证据。包含每日公开信源阅读、财报和数据研究、按自定条件扫描变化的雷达、个人投资框架，以及 AI 100 榜单和行业图谱。公开部分可以免费使用。|
+| [灵犀 Lyncis](https://lyncis.app) | 国学版 MBTI。输入生日，测出你在《周易》64 卦里的本命卦、身份名和本命神，再拉朋友合一卦，看看你们是什么组合。出处来自《周易》、二十四节气（2016 年列入联合国非遗）和唐宋经典。网页直接打开就能用，支持中文和英文。|
+| [TokenMost](https://tokenmost.com/) | token 折扣与免费额度情报导航站。|
 
 
 ## 独立开发出海--支付工具
@@ -297,6 +301,7 @@
 
 | 站点 | 简介 |
 | --- | --- |
+| [CodeProxy AI Gateway Skill](https://github.com/PennyJoly/codeproxy-ai-gateway) | 这是一个用于 Codex/Claude Code/Openclaw/Hermes Agent等等agent 的 skill，可帮助团队通过统一网关安全地配置、迁移、治理和排查 AI 编程代理。它面向平台工程、IT、安全、DevOps 和开发者体验团队，提供可重复使用的 AI 访问标准化流程，同时避免覆盖开发者已有的配置。|
 | [HeyForm](https://www.linktre.cc/siteDetails/315) | 开源且无代码式的表单快速构建工具 |
 | [SimUI模拟游戏管理软件](https://www.linktre.cc/siteDetails/317) | 热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件 |
 | [兔兔答题](https://www.linktre.cc/siteDetails/299) | 开源免费在线考试，企业培训软件综合平台 |
